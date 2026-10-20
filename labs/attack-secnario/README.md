@@ -13,7 +13,7 @@ fcg/llm.py            mock LLM / OpenAI 호환 어댑터
 fcg/judge.py          결정론적 채점 (EXPLOITED / EXPOSED / BLOCKED, PASS / FAIL)
 scenarios/scenarios.json  공격 23 (A01~A15 + Udemy 보강 A16~A23) + 정상 업무 8
 run_scenarios.py      실행기 · 리포트 · before/after 비교 · RAGAS 입력 내보내기
-eval_ragas.py         Step 3 RAGAS 평가 (Faithfulness, Context Relevance). requirements-ragas.txt 필요, Python 3.11/3.12
+../eval/eval_ragas.py Step 3 RAGAS 평가 (Faithfulness, Context Relevance). ../eval/requirements-ragas.txt 필요, Python 3.11/3.12
 tests/test_smoke.py   하네스 배선 테스트
 docs/                 시나리오 설계서, Step 2 / Step 4 인수인계, 현황, Udemy 대응표
 ```

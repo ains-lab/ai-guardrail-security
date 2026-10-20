@@ -4,9 +4,10 @@
     pip install -r requirements-ragas.txt
     $env:FCG_API_KEY = "sk-..."          # 판정용 LLM (OpenAI 호환). 로컬 Ollama 면 FCG_BASE_URL 도 지정
 
-실행:
-    python eval_ragas.py --input results/baseline_ragas.jsonl --model gpt-4o-mini
-    python eval_ragas.py --input results/baseline_ragas.jsonl --dry-run     # 입력/지표 구성만 점검, LLM 호출 없음
+입력은 labs/attack-secnario 에서 `python run_scenarios.py --label baseline` 으로 만든 `results/baseline_ragas.jsonl`.
+실행 (labs/eval 에서):
+    python eval_ragas.py --input ../attack-secnario/results/baseline_ragas.jsonl --model gpt-4o-mini
+    python eval_ragas.py --input ../attack-secnario/results/baseline_ragas.jsonl --dry-run   # 입력/지표 구성만 점검, LLM 호출 없음
 
 ragas 0.4.3 기준 (`ragas.metrics.collections`). 지표 API 는 버전마다 달라서 다른 버전에서는 수정이 필요할 수 있다.
 주의: 판정자도 LLM 이므로 공격 시나리오의 응답(거절문 등)은 Faithfulness 가 낮게 나올 수 있다. 정상 업무(B) 위주로 해석할 것.
