@@ -1,0 +1,161 @@
+## 바로가기
+
+# [찾기쉬운 생활법령 정보](/CSP/Main.laf)
+
+![찾기쉬운 생활법령 정보](/CSP/images/common/logo.png)
+
+## 전체메뉴
+
+## SMART 생활법률
+
+![qr코드 모바일](./images/common/img_quickqr.png)
+
+### [펜션 사업자](/CSP/CsmMain.laf?csmSeq=1967)
+
+이미지로 보는 **카드뉴스**
+
+사례로 보는 **백문백답**
+
+**관련법령**
+
+목차
+
+## 하위 메뉴
+
+## 현재위치 및 공유하기
+
+[생활법령 내 검색](#)
+
+생활법령 내 검색
+
+![카카오톡](//developers.kakao.com/assets/img/about/logos/kakaolink/kakaolink_btn_medium.png)
+
+## 본문 영역
+
+![](https://www.easylaw.go.kr/CSP/images/icon_1.gif)
+![](https://www.easylaw.go.kr/CSP/images/icon_arrow01.gif)
+![주소복사](/common/images/etc/btn_copy_address2.gif "주소복사")
+![즐겨찾기에추가](/common/images/etc/btn_bookmark2.gif "즐겨찾기에추가")
+![](https://www.easylaw.go.kr/CSP/images/icon_arrow03.gif)
+![](https://www.easylaw.go.kr/CSP/images/icon_arrow02.gif)
+![규제](https://www.easylaw.go.kr/CSP/images/icon/icon_btr.gif)
+![](https://www.easylaw.go.kr/CSP/images/icon_arrow03.gif)
+![](https://www.easylaw.go.kr/CSP/images/icon_arrow02.gif)
+![규제](https://www.easylaw.go.kr/CSP/images/icon/icon_btr.gif)
+![](https://www.easylaw.go.kr/CSP/images/icon_arrow02.gif)
+![규제](https://www.easylaw.go.kr/CSP/images/icon/icon_btr.gif)
+![](https://www.easylaw.go.kr/CSP/images/icon_arrow02.gif)
+![규제](https://www.easylaw.go.kr/CSP/images/icon/icon_btr.gif)
+![](https://www.easylaw.go.kr/CSP/images/icon_arrow02.gif)
+![규제](https://www.easylaw.go.kr/CSP/images/icon/icon_btr.gif)
+![](https://www.easylaw.go.kr/CSP/images/icon_arrow01.gif)
+![주소복사](/common/images/etc/btn_copy_address2.gif "주소복사")
+![즐겨찾기에추가](/common/images/etc/btn_bookmark2.gif "즐겨찾기에추가")
+![](https://www.easylaw.go.kr/CSP/images/icon_arrow03.gif)
+![](https://www.easylaw.go.kr/CSP/images/icon_arrow02.gif)
+![규제](https://www.easylaw.go.kr/CSP/images/icon/icon_btr.gif)
+![규제](https://www.easylaw.go.kr/CSP/images/icon/icon_btr.gif)
+
+|  |  |
+| --- | --- |
+| **구분** | **내용** |
+| **객실****·****침구 등의 청결** | 1. 객실·접객대·로비시설·복도·계단·욕실·샤워시설·세면시설 및 화장실 등에는 해충이 발생하지 않도록 매월 1회 이상 소독을 해야 합니다. 다만, [「감염병의 예방 및 관리에 관한 법률」](http://www.law.go.kr/LSW/LsiJoLinkP.do?docType=&lsNm=%EA%B0%90%EC%97%BC%EB%B3%91%EC%9D%98+%EC%98%88%EB%B0%A9+%EB%B0%8F+%EA%B4%80%EB%A6%AC%EC%97%90+%EA%B4%80%ED%95%9C+%EB%B2%95%EB%A5%A0&joNo=&languageType=KO&paras=1 "새창으로 열림") 등 관계 법령에 따라 소독해야 하는 업소의 경우에는 해당 법령에 따릅니다.  2. 요·이불·베개 등 침구의 포와 수건은 숙박자 1명이 사용할 때마다 세탁해야 하며, 수시로 일광 그 밖의 방법에 따라 건조시켜야 합니다.  3. 객실의 물은 [「식품위생법」 제14조](http://www.law.go.kr/LSW/LsiJoLinkP.do?docType=JO&lsNm=%EC%8B%9D%ED%92%88%EC%9C%84%EC%83%9D%EB%B2%95&joNo=001400000&languageType=KO&paras=1 "새창으로 열림")에 따라 작성·보급되는 식품 등의 공전에 따른 접객용 먹는물 규격에 적합한 물이어야 하고, 깨끗한 용기에 담아 비치해야 합니다.  4. 객실·욕실 등의 위생적인 관리를 위해 수시로 청소하고, 청소할 때에는 그에 적합한 도구를 용도별로 구분해 사용해야 합니다. |
+| **욕실 등의 위생관리 및 수질관리** | 1. 원수는 다음의 기준에 적합해야 합니다([「공중위생관리법 시행규칙」 별표 2](http://www.law.go.kr/lsBylInfoPLinkR.do?bylCls=BE&lsNm=%EA%B3%B5%EC%A4%91%EC%9C%84%EC%83%9D%EA%B4%80%EB%A6%AC%EB%B2%95+%EC%8B%9C%ED%96%89%EA%B7%9C%EC%B9%99&bylNo=0002&bylBrNo=00 "새창으로 열림") Ⅰ 제1호).  가. 색도는 5도 이하일 것  나. 탁도는 1NTU 이하일 것  다. 수소이온농도는 5.8 이상 8.6 이하일 것  라. 과망간산칼륨 소비량은 10mg/l 이하가 될 것  마. 총대장균군은 100ml 중에서 검출되지 않을 것  2. 숙박업소에서 사용하는 저수조는 [「수도법」](http://www.law.go.kr/LSW/LsiJoLinkP.do?docType=&lsNm=%EC%88%98%EB%8F%84%EB%B2%95&joNo=&languageType=KO&paras=1 "새창으로 열림") 등 관련 법령에 따라 소독·청소해야 합니다. |
+| **환기 및 조명** | 1. 환기용 창 등은 수시로 개방해 환기가 충분히 될 수 있도록 해야 합니다.  2. 기계환기설비는 항상 가동될 수 있도록 하고, 수시로 가동시켜 환기가 충분히 될 수 있도록 해야 합니다.  3. 객실·접객대 및 로비시설의 조명도는 75럭스(lux) 이상이 되도록 유지해야 하며, 복도·계단·욕실·샤워시설·세면시설 및 화장실의 조명도는 20럭스(복도 및 계단의 경우 심야에서 10럭스) 이상이 되도록 유지해야 합니다. |
+| **그 밖의 준수사항** | 1. 숙박영업자는 업소 내에 숙박업신고증을, 접객대에 숙박요금표를 각각 게시해야 하며, 게시된 숙박요금을 준수해야 합니다. 이 경우 숙박업자가 [「전자상거래 등에서의 소비자보호에 관한 법률」 제21조의2](http://www.law.go.kr/LSW/LsiJoLinkP.do?docType=JO&lsNm=%EC%A0%84%EC%9E%90%EC%83%81%EA%B1%B0%EB%9E%98+%EB%93%B1%EC%97%90%EC%84%9C%EC%9D%98+%EC%86%8C%EB%B9%84%EC%9E%90%EB%B3%B4%ED%98%B8%EC%97%90+%EA%B4%80%ED%95%9C+%EB%B2%95%EB%A5%A0&joNo=002100002&languageType=KO&paras=1 "새창으로 열림")에 따른 온라인 인터페이스(이하 "온라인 인터페이스"라 함)를 숙박업에 활용하는 경우에는 온라인 인터페이스에도 숙박요금표를 게시해야 하며, 게시된 숙박요금을 준수해야 합니다.  2. 숙박업(생활)의 취사시설은 [「도시가스사업법」](http://www.law.go.kr/LSW/LsiJoLinkP.do?docType=&lsNm=%EB%8F%84%EC%8B%9C%EA%B0%80%EC%8A%A4%EC%82%AC%EC%97%85%EB%B2%95&joNo=&languageType=KO&paras=1 "새창으로 열림"), [「액화석유가스의 안전관리 및 사업법」](http://www.law.go.kr/LSW/LsiJoLinkP.do?docType=&lsNm=%EC%95%A1%ED%99%94%EC%84%9D%EC%9C%A0%EA%B0%80%EC%8A%A4%EC%9D%98+%EC%95%88%EC%A0%84%EA%B4%80%EB%A6%AC+%EB%B0%8F+%EC%82%AC%EC%97%85%EB%B2%95&joNo=&languageType=KO&paras=1 "새창으로 열림"), [「화재의 예방 및 안전관리에 관한 법률」](http://www.law.go.kr/LSW/LsiJoLinkP.do?docType=&lsNm=%ED%99%94%EC%9E%AC%EC%9D%98+%EC%98%88%EB%B0%A9+%EB%B0%8F+%EC%95%88%EC%A0%84%EA%B4%80%EB%A6%AC%EC%97%90+%EA%B4%80%ED%95%9C+%EB%B2%95%EB%A5%A0&joNo=&languageType=KO&paras=1 "새창으로 열림"), [「소방시설 설치 및 관리에 관한 법률」](http://www.law.go.kr/LSW/LsiJoLinkP.do?docType=&lsNm=%EC%86%8C%EB%B0%A9%EC%8B%9C%EC%84%A4+%EC%84%A4%EC%B9%98+%EB%B0%8F+%EA%B4%80%EB%A6%AC%EC%97%90+%EA%B4%80%ED%95%9C+%EB%B2%95%EB%A5%A0&joNo=&languageType=KO&paras=1 "새창으로 열림") 및 그 밖의 관계 법령에서 정하는 기준에 적합하게 설치·관리되어야 합니다.  3. 객실 주변에 호실별 또는 동별 난방을 위한 개별 난방설비를 설치하는 경우([「도시가스사업법」](http://www.law.go.kr/LSW/LsiJoLinkP.do?docType=&lsNm=%EB%8F%84%EC%8B%9C%EA%B0%80%EC%8A%A4%EC%82%AC%EC%97%85%EB%B2%95&joNo=&languageType=KO&paras=1 "새창으로 열림") 등 관계 법령에 따라 안전설비를 설치하는 경우는 제외)에는 개별 난방설비 주변 또는 객실 내에 [규제](# "규제등록카드 새창 열기")[「소방시설 설치 및 관리에 관한 법률」 제37조](http://www.law.go.kr/LSW/LsiJoLinkP.do?docType=JO&lsNm=%EC%86%8C%EB%B0%A9%EC%8B%9C%EC%84%A4+%EC%84%A4%EC%B9%98+%EB%B0%8F+%EA%B4%80%EB%A6%AC%EC%97%90+%EA%B4%80%ED%95%9C+%EB%B2%95%EB%A5%A0&joNo=003700000&languageType=KO&paras=1 "새창으로 열림")제3항에 따라 제품검사를 받은 일산화탄소 경보기를 설치해야 합니다.  4. 건물의 일부를 대상으로 숙박업을 하는 경우에는 ① 접객대, 로비, 입구 등에 건물의 일부를 대상으로 숙박업이 이루어지고 있다는 사실을 표시하고, 객실 입구에는 해당 객실의 운영책임자와 비상연락처를 표시해야 하며, ② 매년 12월 31일까지 또는 시ᆞ도지사가 정하는 시기마다 객실 수 및 영업장 면적 현황을 관할 관청에 보고해야 합니다. |
+| ※ 건물의 일부를 대상으로 숙박업을 하는 경우에는 다음을 준수해야 합니다.  1. 접객대, 로비, 입구 등에 건물의 일부를 대상으로 숙박업이 이루어지고 있다는 사실을 표시해야 합니다.  2. 객실 입구에는 해당 객실의 운영책임자와 비상연락처를 표시해야 합니다. 또한 매년 12월 31일까지 또는 시ᆞ도지사가 정하는 시기마다 객실 수 및 영업장 면적 현황을 관할 관청에 보고해야 합니다. | |
+
+**구분**
+
+**내용**
+
+**객실****·****침구 등의 청결**
+
+1. 객실·접객대·로비시설·복도·계단·욕실·샤워시설·세면시설 및 화장실 등에는 해충이 발생하지 않도록 매월 1회 이상 소독을 해야 합니다. 다만, [「감염병의 예방 및 관리에 관한 법률」](http://www.law.go.kr/LSW/LsiJoLinkP.do?docType=&lsNm=%EA%B0%90%EC%97%BC%EB%B3%91%EC%9D%98+%EC%98%88%EB%B0%A9+%EB%B0%8F+%EA%B4%80%EB%A6%AC%EC%97%90+%EA%B4%80%ED%95%9C+%EB%B2%95%EB%A5%A0&joNo=&languageType=KO&paras=1 "새창으로 열림") 등 관계 법령에 따라 소독해야 하는 업소의 경우에는 해당 법령에 따릅니다.
+
+2. 요·이불·베개 등 침구의 포와 수건은 숙박자 1명이 사용할 때마다 세탁해야 하며, 수시로 일광 그 밖의 방법에 따라 건조시켜야 합니다.
+
+3. 객실의 물은 [「식품위생법」 제14조](http://www.law.go.kr/LSW/LsiJoLinkP.do?docType=JO&lsNm=%EC%8B%9D%ED%92%88%EC%9C%84%EC%83%9D%EB%B2%95&joNo=001400000&languageType=KO&paras=1 "새창으로 열림")에 따라 작성·보급되는 식품 등의 공전에 따른 접객용 먹는물 규격에 적합한 물이어야 하고, 깨끗한 용기에 담아 비치해야 합니다.
+
+4. 객실·욕실 등의 위생적인 관리를 위해 수시로 청소하고, 청소할 때에는 그에 적합한 도구를 용도별로 구분해 사용해야 합니다.
+
+**욕실 등의 위생관리 및 수질관리**
+
+1. 원수는 다음의 기준에 적합해야 합니다([「공중위생관리법 시행규칙」 별표 2](http://www.law.go.kr/lsBylInfoPLinkR.do?bylCls=BE&lsNm=%EA%B3%B5%EC%A4%91%EC%9C%84%EC%83%9D%EA%B4%80%EB%A6%AC%EB%B2%95+%EC%8B%9C%ED%96%89%EA%B7%9C%EC%B9%99&bylNo=0002&bylBrNo=00 "새창으로 열림") Ⅰ 제1호).
+
+가. 색도는 5도 이하일 것
+
+나. 탁도는 1NTU 이하일 것
+
+다. 수소이온농도는 5.8 이상 8.6 이하일 것
+
+라. 과망간산칼륨 소비량은 10mg/l 이하가 될 것
+
+마. 총대장균군은 100ml 중에서 검출되지 않을 것
+
+2. 숙박업소에서 사용하는 저수조는 [「수도법」](http://www.law.go.kr/LSW/LsiJoLinkP.do?docType=&lsNm=%EC%88%98%EB%8F%84%EB%B2%95&joNo=&languageType=KO&paras=1 "새창으로 열림") 등 관련 법령에 따라 소독·청소해야 합니다.
+
+**환기 및 조명**
+
+1. 환기용 창 등은 수시로 개방해 환기가 충분히 될 수 있도록 해야 합니다.
+
+2. 기계환기설비는 항상 가동될 수 있도록 하고, 수시로 가동시켜 환기가 충분히 될 수 있도록 해야 합니다.
+
+3. 객실·접객대 및 로비시설의 조명도는 75럭스(lux) 이상이 되도록 유지해야 하며, 복도·계단·욕실·샤워시설·세면시설 및 화장실의 조명도는 20럭스(복도 및 계단의 경우 심야에서 10럭스) 이상이 되도록 유지해야 합니다.
+
+**그 밖의 준수사항**
+
+1. 숙박영업자는 업소 내에 숙박업신고증을, 접객대에 숙박요금표를 각각 게시해야 하며, 게시된 숙박요금을 준수해야 합니다. 이 경우 숙박업자가 [「전자상거래 등에서의 소비자보호에 관한 법률」 제21조의2](http://www.law.go.kr/LSW/LsiJoLinkP.do?docType=JO&lsNm=%EC%A0%84%EC%9E%90%EC%83%81%EA%B1%B0%EB%9E%98+%EB%93%B1%EC%97%90%EC%84%9C%EC%9D%98+%EC%86%8C%EB%B9%84%EC%9E%90%EB%B3%B4%ED%98%B8%EC%97%90+%EA%B4%80%ED%95%9C+%EB%B2%95%EB%A5%A0&joNo=002100002&languageType=KO&paras=1 "새창으로 열림")에 따른 온라인 인터페이스(이하 "온라인 인터페이스"라 함)를 숙박업에 활용하는 경우에는 온라인 인터페이스에도 숙박요금표를 게시해야 하며, 게시된 숙박요금을 준수해야 합니다.
+
+2. 숙박업(생활)의 취사시설은 [「도시가스사업법」](http://www.law.go.kr/LSW/LsiJoLinkP.do?docType=&lsNm=%EB%8F%84%EC%8B%9C%EA%B0%80%EC%8A%A4%EC%82%AC%EC%97%85%EB%B2%95&joNo=&languageType=KO&paras=1 "새창으로 열림"), [「액화석유가스의 안전관리 및 사업법」](http://www.law.go.kr/LSW/LsiJoLinkP.do?docType=&lsNm=%EC%95%A1%ED%99%94%EC%84%9D%EC%9C%A0%EA%B0%80%EC%8A%A4%EC%9D%98+%EC%95%88%EC%A0%84%EA%B4%80%EB%A6%AC+%EB%B0%8F+%EC%82%AC%EC%97%85%EB%B2%95&joNo=&languageType=KO&paras=1 "새창으로 열림"), [「화재의 예방 및 안전관리에 관한 법률」](http://www.law.go.kr/LSW/LsiJoLinkP.do?docType=&lsNm=%ED%99%94%EC%9E%AC%EC%9D%98+%EC%98%88%EB%B0%A9+%EB%B0%8F+%EC%95%88%EC%A0%84%EA%B4%80%EB%A6%AC%EC%97%90+%EA%B4%80%ED%95%9C+%EB%B2%95%EB%A5%A0&joNo=&languageType=KO&paras=1 "새창으로 열림"), [「소방시설 설치 및 관리에 관한 법률」](http://www.law.go.kr/LSW/LsiJoLinkP.do?docType=&lsNm=%EC%86%8C%EB%B0%A9%EC%8B%9C%EC%84%A4+%EC%84%A4%EC%B9%98+%EB%B0%8F+%EA%B4%80%EB%A6%AC%EC%97%90+%EA%B4%80%ED%95%9C+%EB%B2%95%EB%A5%A0&joNo=&languageType=KO&paras=1 "새창으로 열림") 및 그 밖의 관계 법령에서 정하는 기준에 적합하게 설치·관리되어야 합니다.
+
+3. 객실 주변에 호실별 또는 동별 난방을 위한 개별 난방설비를 설치하는 경우([「도시가스사업법」](http://www.law.go.kr/LSW/LsiJoLinkP.do?docType=&lsNm=%EB%8F%84%EC%8B%9C%EA%B0%80%EC%8A%A4%EC%82%AC%EC%97%85%EB%B2%95&joNo=&languageType=KO&paras=1 "새창으로 열림") 등 관계 법령에 따라 안전설비를 설치하는 경우는 제외)에는 개별 난방설비 주변 또는 객실 내에 [![규제](https://www.easylaw.go.kr/CSP/images/icon/icon_btr.gif)](# "규제등록카드 새창 열기")[「소방시설 설치 및 관리에 관한 법률」 제37조](http://www.law.go.kr/LSW/LsiJoLinkP.do?docType=JO&lsNm=%EC%86%8C%EB%B0%A9%EC%8B%9C%EC%84%A4+%EC%84%A4%EC%B9%98+%EB%B0%8F+%EA%B4%80%EB%A6%AC%EC%97%90+%EA%B4%80%ED%95%9C+%EB%B2%95%EB%A5%A0&joNo=003700000&languageType=KO&paras=1 "새창으로 열림")제3항에 따라 제품검사를 받은 일산화탄소 경보기를 설치해야 합니다.
+
+![규제](https://www.easylaw.go.kr/CSP/images/icon/icon_btr.gif)
+
+4. 건물의 일부를 대상으로 숙박업을 하는 경우에는 ① 접객대, 로비, 입구 등에 건물의 일부를 대상으로 숙박업이 이루어지고 있다는 사실을 표시하고, 객실 입구에는 해당 객실의 운영책임자와 비상연락처를 표시해야 하며, ② 매년 12월 31일까지 또는 시ᆞ도지사가 정하는 시기마다 객실 수 및 영업장 면적 현황을 관할 관청에 보고해야 합니다.
+
+※ 건물의 일부를 대상으로 숙박업을 하는 경우에는 다음을 준수해야 합니다.
+
+1. 접객대, 로비, 입구 등에 건물의 일부를 대상으로 숙박업이 이루어지고 있다는 사실을 표시해야 합니다.
+
+2. 객실 입구에는 해당 객실의 운영책임자와 비상연락처를 표시해야 합니다. 또한 매년 12월 31일까지 또는 시ᆞ도지사가 정하는 시기마다 객실 수 및 영업장 면적 현황을 관할 관청에 보고해야 합니다.
+
+![](https://www.easylaw.go.kr/CSP/images/icon_arrow03.gif)
+![](https://www.easylaw.go.kr/CSP/images/icon_arrow02.gif)
+![규제](https://www.easylaw.go.kr/CSP/images/icon/icon_btr.gif)
+![규제](https://www.easylaw.go.kr/CSP/images/icon/icon_btr.gif)
+![규제](https://www.easylaw.go.kr/CSP/images/icon/icon_btr.gif)
+
+|  |  |
+| --- | --- |
+| **소독시기** | **소독횟수** |
+| 4월부터 9월까지 | 1회 이상/1개월 |
+| 10월부터 3월까지 | 1회 이상/2개월 |
+
+**소독시기**
+
+**소독횟수**
+
+4월부터 9월까지
+
+1회 이상/1개월
+
+10월부터 3월까지
+
+1회 이상/2개월
+
+![](https://www.easylaw.go.kr/CSP/images/icon_arrow02.gif)
+![규제](https://www.easylaw.go.kr/CSP/images/icon/icon_btr.gif)
+![](https://www.easylaw.go.kr/CSP/images/icon_arrow03.gif)
+![](https://www.easylaw.go.kr/CSP/images/icon_arrow02.gif)
+![규제](https://www.easylaw.go.kr/CSP/images/icon/icon_btr.gif)
+
+## 하단 영역
+
+[![법제처](/CSP/images/common/foot_logo.png)](http://www.moleg.go.kr/ "새창열림")
+
+![법제처](/CSP/images/common/foot_logo.png)
+
+Copyright ⓒ 1997-2023 Korea Ministry of Government Legislation. All Rights Reserved.    |   
+[홈페이지 개선의견](/CSP/AtnRetrieveLst.laf?topMenu=openUl2 "새창열림")

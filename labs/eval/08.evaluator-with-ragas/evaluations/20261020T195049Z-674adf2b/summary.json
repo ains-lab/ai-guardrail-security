@@ -1,0 +1,38 @@
+{
+  "metrics": {
+    "faithfulness": {
+      "mean": 0.8150252525252526,
+      "valid": 10,
+      "failed_or_undefined": 0
+    },
+    "llm_context_precision_with_reference": {
+      "mean": 0.89999999991,
+      "valid": 10,
+      "failed_or_undefined": 0
+    },
+    "context_recall": {
+      "mean": 0.8833333333333334,
+      "valid": 10,
+      "failed_or_undefined": 0
+    },
+    "factual_correctness": {
+      "mean": 0.481,
+      "valid": 10,
+      "failed_or_undefined": 0
+    }
+  },
+  "metadata": {
+    "dataset": "/home/ainsdev/orca/workspaces/ai-guardrail-security/sysmoon-owasp_llm01/labs/eval/08.evaluator-with-ragas/outputs/20261020T194320Z-9d215572/testset.jsonl",
+    "dataset_sha256": "6f9a5d8b4155b13d015fbf1032a9206a2b7b9b0c9eb1130ed69ce5b45110c787",
+    "source_sha256": "d230862130ee28445f7c8d5b83f8aca3ec1905b6b201f81b7d01c234c383a450",
+    "model": "qwen2.5-7b",
+    "base_url": "http://127.0.0.1:8080/v1",
+    "judge_model": "qwen2.5-7b",
+    "judge_base_url": "http://127.0.0.1:8080/v1",
+    "ragas": "0.4.3",
+    "retriever": "character-bigram section ranking",
+    "top_k": 1,
+    "samples": 10,
+    "caveat": "synthetic references; unreviewed; same-model bias possible; not legal correctness certification"
+  }
+}

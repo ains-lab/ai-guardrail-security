@@ -1,0 +1,10 @@
+{
+  "source": "/home/ainsdev/orca/workspaces/ai-guardrail-security/sysmoon-owasp_llm01/labs/eval/research/seongdong-guesthouse-preparation.md",
+  "source_sha256": "d230862130ee28445f7c8d5b83f8aca3ec1905b6b201f81b7d01c234c383a450",
+  "model": "qwen2.5-7b",
+  "base_url": "http://127.0.0.1:8080/v1",
+  "ragas_version": "0.4.3",
+  "samples": 10,
+  "strategy": "single-hop / section-title entities / no embeddings",
+  "human_review_required": true
+}
