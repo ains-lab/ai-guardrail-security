@@ -1,6 +1,8 @@
 """시나리오 실행기.
 
-  python run_scenarios.py --label baseline
+  python run_scenarios.py --label baseline                  # owasp + asi 전체 (31건)
+  python run_scenarios.py --suite owasp --label owasp-only  # owasp/scenarios.json 만
+  python run_scenarios.py --suite asi --label asi-only      # asi/scenarios.json 만
   python run_scenarios.py --label hardened --rails fcg.example_rails:build
   python run_scenarios.py --compare results/baseline_results.json results/hardened_results.json
   python run_scenarios.py --llm openai --model gpt-4o-mini --label baseline-gpt   (FCG_API_KEY 또는 OPENAI_API_KEY 필요)
@@ -36,8 +38,25 @@ def load_rails(spec: str | None) -> list:
     return getattr(importlib.import_module(mod), fn or "build")()
 
 
+SUITES = {"owasp": ROOT / "owasp" / "scenarios.json", "asi": ROOT / "asi" / "scenarios.json"}
+
+
+def load_scenarios(paths: list) -> list:
+    """시나리오 파일 여러 개를 읽어 합친다. 공격(A) 먼저, 정상 업무(B) 나중, 각각 ID 순. ID 중복은 오류."""
+    out, seen = [], {}
+    for p in paths:
+        for s in json.loads(Path(p).read_text(encoding="utf-8"))["scenarios"]:
+            if s["id"] in seen:
+                raise ValueError(f"시나리오 ID 중복: {s['id']} ({seen[s['id']]} 와 {p})")
+            seen[s["id"]] = str(p)
+            out.append(s)
+    return sorted(out, key=lambda s: (s["kind"] == "benign", s["id"]))
+
+
 def run_all(args) -> dict:
-    scenarios = json.loads(Path(args.scenarios).read_text(encoding="utf-8"))["scenarios"]
+    suite = getattr(args, "suite", "all")
+    paths = args.scenarios or (list(SUITES.values()) if suite == "all" else [SUITES[suite]])
+    scenarios = load_scenarios(paths)
     if args.only:
         wanted = set(args.only.split(","))
         scenarios = [s for s in scenarios if s["id"] in wanted]
@@ -145,7 +164,9 @@ def main() -> int:
     p.add_argument("--llm", choices=["mock", "openai"], default="mock")
     p.add_argument("--model", default=None)
     p.add_argument("--rails", default=None, help="module:factory (Rail 리스트를 반환)")
-    p.add_argument("--scenarios", default=str(ROOT / "scenarios" / "scenarios.json"))
+    p.add_argument("--suite", choices=["all", "owasp", "asi"], default="all",
+                   help="all=owasp+asi (기본), owasp=owasp/scenarios.json, asi=asi/scenarios.json")
+    p.add_argument("--scenarios", nargs="+", default=None, help="시나리오 JSON 경로를 직접 지정 (--suite 무시)")
     p.add_argument("--only", default=None, help="콤마 구분 시나리오 ID")
     p.add_argument("--out", default=str(ROOT / "results"))
     p.add_argument("--compare", nargs=2, metavar=("BEFORE", "AFTER"))

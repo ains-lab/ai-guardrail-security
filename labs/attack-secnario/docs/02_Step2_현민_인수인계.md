@@ -13,7 +13,7 @@
    Windows 에서 `python` 이 "Python" 한 줄만 찍으면 Microsoft Store 스텁이다. 이때는 `py -3.12 ...` 로 실행한다.
 2. **먼저 답을 보지 말고** 아래 두 경로를 직접 점검한다. (`01_시나리오_설계서.md` 3절의 W 표는 점검 후에 대조용으로 연다.)
 3. 찾은 항목을 아래 표 형식으로 정리하고, 재현 시나리오 ID 를 붙인다. 시나리오로 재현되지 않는 항목은 새 시나리오를
-   `scenarios/scenarios.json` 에 추가해 재현한다 (형식은 기존 항목 참고, 설계서 1절 원칙 준수).
+   `owasp/scenarios.json` 또는 `asi/scenarios.json` 에 추가해 재현한다 (형식은 기존 항목 참고, 설계서 1절 원칙 준수).
 4. 가능하면 실제 LLM 결과(`results/baseline-qwen25-7b_*`)와 mock 결과(`results/baseline_*`)를 비교해, 결과가 다른 시나리오를 표시한다.
    아래 "실제 LLM 결과를 볼 때" 를 먼저 읽는다.
 

@@ -11,7 +11,8 @@ fcg/rails.py          Rail 인터페이스            ← Step 4 가 구현하�
 fcg/example_rails.py  Rail 예시 (데모용, Step 4 산출물 아님)
 fcg/llm.py            mock LLM / OpenAI 호환 어댑터
 fcg/judge.py          결정론적 채점 (EXPLOITED / EXPOSED / BLOCKED, PASS / FAIL)
-scenarios/scenarios.json  공격 23 (A01~A15 + Udemy 보강 A16~A23) + 정상 업무 8
+owasp/scenarios.json     OWASP LLM Top 10 계열: 공격 16(A01~A15, A22) + 정상 업무 6
+asi/scenarios.json       에이전트(ASI) 계열: 공격 7(A16~A21, A23) + 정상 업무 2  (둘을 합쳐 31건)
 run_scenarios.py      실행기 · 리포트 · before/after 비교 · RAGAS 입력 내보내기
 ../eval/eval_ragas.py Step 3 RAGAS 평가 (Faithfulness, Context Relevance). ../eval/requirements-ragas.txt 필요, Python 3.11/3.12
 tests/test_smoke.py   하네스 배선 테스트
@@ -22,7 +23,9 @@ docs/                 시나리오 설계서, Step 2 / Step 4 인수인계, 현�
 
 ```powershell
 # 프로젝트 루트에서
-python run_scenarios.py --label baseline                                  # 방어 없음
+python run_scenarios.py --label baseline                                  # 방어 없음, owasp + asi 전체 31건
+python run_scenarios.py --suite owasp --label owasp-only                  # owasp/scenarios.json 만 (22건)
+python run_scenarios.py --suite asi --label asi-only                      # asi/scenarios.json 만 (9건)
 python run_scenarios.py --label partial --rails fcg.example_rails:build   # 예시 레일 (일부러 불완전)
 python run_scenarios.py --label full    --rails fcg.example_rails:build_full
 python run_scenarios.py --compare results/baseline_results.json results/full_results.json   # Step 5 비교표

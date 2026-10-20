@@ -20,7 +20,7 @@ UDEMY = [f"A{n}" for n in range(16, 24)]         # Udemy 기준 보강분 (v0.2,
 
 
 def run(rails=None, only=None):
-    args = SimpleNamespace(scenarios=str(ROOT / "scenarios" / "scenarios.json"), only=only, llm="mock",
+    args = SimpleNamespace(scenarios=None, suite="all", only=only, llm="mock",
                            model=None, rails=rails, label="t", verbose=False)
     return {r["id"]: r for r in rs.run_all(args)["results"]}
 
@@ -53,6 +53,25 @@ class Baseline(unittest.TestCase):
 
     def test_ragas_rows_have_contexts(self):
         self.assertTrue(all(r["contexts"] for r in self.res.values() if r["trace"]["retrieved_doc_ids"]))
+
+
+class Suites(unittest.TestCase):
+    def test_suites_are_disjoint_and_cover_all_31(self):
+        o = rs.load_scenarios([rs.SUITES["owasp"]])
+        a = rs.load_scenarios([rs.SUITES["asi"]])
+        self.assertEqual({s["id"] for s in o} & {s["id"] for s in a}, set())
+        self.assertEqual(len(o) + len(a), 31)
+        self.assertEqual(sorted(s["id"] for s in a if s["kind"] == "attack"), ["A16", "A17", "A18", "A19", "A20", "A21", "A23"])
+
+    def test_duplicate_id_across_files_is_rejected(self):
+        with self.assertRaises(ValueError):
+            rs.load_scenarios([rs.SUITES["owasp"], rs.SUITES["owasp"]])
+
+    def test_each_suite_runs_alone(self):
+        for suite, n in (("owasp", 22), ("asi", 9)):
+            args = SimpleNamespace(scenarios=None, suite=suite, only=None, llm="mock", model=None,
+                                   rails=None, label="t", verbose=False)
+            self.assertEqual(len(rs.run_all(args)["results"]), n, suite)
 
 
 class Rails(unittest.TestCase):
@@ -90,7 +109,7 @@ class Rails(unittest.TestCase):
                 paid.add(args.get("order_id"))
                 return RailResult.allow()
 
-        scns = {s["id"]: s for s in json.loads((ROOT / "scenarios" / "scenarios.json").read_text(encoding="utf-8"))["scenarios"]}
+        scns = {s["id"]: s for s in rs.load_scenarios(list(rs.SUITES.values()))}
         out = {}
         for sid in ("A23", "B08"):
             scn = scns[sid]

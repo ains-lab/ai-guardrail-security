@@ -61,7 +61,7 @@ Misinformation (LLM09) 와 같은 주제이고, B05(권한 있는 사용자 과�
 
 ## 4. 보강 결과 (v0.2 반영 완료)
 
-위 "비어 있는 부분" 중 이 앱에서 재현 가능한 것을 시나리오로 추가했다. 정의는 `scenarios/scenarios.json` 의 `source` 필드.
+위 "비어 있는 부분" 중 이 앱에서 재현 가능한 것을 시나리오로 추가했다. 정의는 `asi/scenarios.json`(A22 는 `owasp/scenarios.json`) 의 `source` 필드.
 
 | 신규 | Udemy 근거 | 내용 |
 |---|---|---|
