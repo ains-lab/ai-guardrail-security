@@ -1,0 +1,187 @@
+[관련 정보 펼치기](#lnbShow)
+
+### [민박 사업자](/CSP/CsmMain.laf?csmSeq=534)
+
+## 하위 메뉴
+
+* [민박 사업자의 이해](/CSP/CnpClsMainBtr.laf?popMenu=ov&csmSeq=534&ccfNo=1&cciNo=3&cnpClsNo=1)
+* + 민박 사업자 개념
+* + [숙박업의 유형](/CSP/CnpClsMainBtr.laf?popMenu=ov&csmSeq=534&ccfNo=1&cciNo=3&cnpClsNo=1)
+  + ["민박" 및 "민박 사업자"란?](/CSP/CnpClsMainBtr.laf?popMenu=ov&csmSeq=534&ccfNo=1&cciNo=3&cnpClsNo=2)
+* [창업 준비](/CSP/CnpClsMainBtr.laf?popMenu=ov&csmSeq=534&ccfNo=2&cciNo=1&cnpClsNo=1)
+* + 민박사업 창업
+* + [창업 시 고려사항](/CSP/CnpClsMainBtr.laf?popMenu=ov&csmSeq=534&ccfNo=2&cciNo=1&cnpClsNo=1)
+* + 건축
+* + [건축의 유형](/CSP/CnpClsMainBtr.laf?popMenu=ov&csmSeq=534&ccfNo=2&cciNo=2&cnpClsNo=1)
+  + [입지의 선정 Ⅰ(건축제한사항의 확인)](/CSP/CnpClsMainBtr.laf?popMenu=ov&csmSeq=534&ccfNo=2&cciNo=2&cnpClsNo=2)
+  + [입지의 선정 Ⅱ(지목 및 용도의 확인)](/CSP/CnpClsMainBtr.laf?popMenu=ov&csmSeq=534&ccfNo=2&cciNo=2&cnpClsNo=3)
+  + [민박사업 시설의 건축 절차](/CSP/CnpClsMainBtr.laf?popMenu=ov&csmSeq=534&ccfNo=2&cciNo=2&cnpClsNo=4)
+  + [필수시설 설치](/CSP/CnpClsMainBtr.laf?popMenu=ov&csmSeq=534&ccfNo=2&cciNo=2&cnpClsNo=5)
+* + 매입
+* + [매입 목적의 결정 및 관심 부동산의 선정](/CSP/CnpClsMainBtr.laf?popMenu=ov&csmSeq=534&ccfNo=2&cciNo=3&cnpClsNo=1)
+  + [민박사업 시설의 매입 절차](/CSP/CnpClsMainBtr.laf?popMenu=ov&csmSeq=534&ccfNo=2&cciNo=3&cnpClsNo=2)
+  + [부동산 중개보수의 지급](/CSP/CnpClsMainBtr.laf?popMenu=ov&csmSeq=534&ccfNo=2&cciNo=3&cnpClsNo=3)
+* + 창업자금 지원
+* + [농업종합자금의 융자](/CSP/CnpClsMainBtr.laf?popMenu=ov&csmSeq=534&ccfNo=2&cciNo=4&cnpClsNo=1)
+* [사업 신고](/CSP/CnpClsMainBtr.laf?popMenu=ov&csmSeq=534&ccfNo=3&cciNo=1&cnpClsNo=1)
+* + 민박사업 신고
+* + [사업 신고](/CSP/CnpClsMainBtr.laf?popMenu=ov&csmSeq=534&ccfNo=3&cciNo=1&cnpClsNo=1)
+* + 사업자등록
+* + [사업자등록](/CSP/CnpClsMainBtr.laf?popMenu=ov&csmSeq=534&ccfNo=3&cciNo=2&cnpClsNo=1)
+  + [사업자등록 정정신고](/CSP/CnpClsMainBtr.laf?popMenu=ov&csmSeq=534&ccfNo=3&cciNo=2&cnpClsNo=2)
+* [운영](/CSP/CnpClsMainBtr.laf?popMenu=ov&csmSeq=534&ccfNo=4&cciNo=1&cnpClsNo=1)
+* + 상호
+* + [상호의 선정 및 사용](/CSP/CnpClsMainBtr.laf?popMenu=ov&csmSeq=534&ccfNo=4&cciNo=1&cnpClsNo=1)
+* + 홍보
+* + [인터넷 홈페이지의 제작 및 운영](/CSP/CnpClsMainBtr.laf?popMenu=ov&csmSeq=534&ccfNo=4&cciNo=2&cnpClsNo=1)
+  + [광고](/CSP/CnpClsMainBtr.laf?popMenu=ov&csmSeq=534&ccfNo=4&cciNo=2&cnpClsNo=2)
+* + 민박 이용요금
+* + [민박 이용요금](/CSP/CnpClsMainBtr.laf?popMenu=ov&csmSeq=534&ccfNo=4&cciNo=3&cnpClsNo=1)
+  + [민박 이용계약 해제 시 손해배상기준](/CSP/CnpClsMainBtr.laf?popMenu=ov&csmSeq=534&ccfNo=4&cciNo=3&cnpClsNo=2)
+* + 영업소득 신고
+* + [부가가치세 및 소득세의 납부](/CSP/CnpClsMainBtr.laf?popMenu=ov&csmSeq=534&ccfNo=4&cciNo=4&cnpClsNo=1)
+* + 그 밖의 준수사항
+* + [사업자의 준수사항](/CSP/CnpClsMainBtr.laf?popMenu=ov&csmSeq=534&ccfNo=4&cciNo=5&cnpClsNo=1)
+* [폐업](/CSP/CnpClsMainBtr.laf?popMenu=ov&csmSeq=534&ccfNo=5&cciNo=1&cnpClsNo=1)
+* + 폐업신고
+* + [민박사업 폐업신고](/CSP/CnpClsMainBtr.laf?popMenu=ov&csmSeq=534&ccfNo=5&cciNo=1&cnpClsNo=1)
+  + [사업자 폐업신고](/CSP/CnpClsMainBtr.laf?popMenu=ov&csmSeq=534&ccfNo=5&cciNo=1&cnpClsNo=2)
+* [이용객의 이용팁](/CSP/CnpClsMainBtr.laf?popMenu=ov&csmSeq=534&ccfNo=6&cciNo=1&cnpClsNo=1)
+* + 민박이용 시 주의사항
+* + [금지행위 및 이용약관 준수](/CSP/CnpClsMainBtr.laf?popMenu=ov&csmSeq=534&ccfNo=6&cciNo=1&cnpClsNo=1)
+
+## 현재위치 및 공유하기
+
+> 생활법령 > **민박 사업자**
+
+[화면 내 검색](#srch_box_pop)
+
+화면 내 검색
+
+## 본문 영역
+
+* [본문](/CSP/CnpClsMainBtr.laf?popMenu=ov&csmSeq=534&ccfNo=1&cciNo=3&cnpClsNo=2&menuType=cnpcls)
+* [100문 100답](/CSP/CnpClsMainBtr.laf?popMenu=ov&csmSeq=534&ccfNo=1&cciNo=3&cnpClsNo=2&menuType=onhunqna)
+* [판례](/CSP/CnpClsMainBtr.laf?popMenu=ov&csmSeq=534&ccfNo=1&cciNo=3&cnpClsNo=2&menuType=prec)
+* [법령해석례](/CSP/CnpClsMainBtr.laf?popMenu=ov&csmSeq=534&ccfNo=1&cciNo=3&cnpClsNo=2&menuType=expc)
+* [국민신문고](/CSP/CnpClsMainBtr.laf?popMenu=ov&csmSeq=534&ccfNo=1&cciNo=3&cnpClsNo=2&menuType=qna)
+
+![](http://www.easylaw.go.kr/CSP/images/icon_1.gif) **"민박" 및 "민박 사업자"란?**
+
+이 사이트 <민박 사업자>에서 민박이란 [「농어촌정비법」](http://www.law.go.kr/LSW/LsiJoLinkP.do?docType=&lsNm=%EB%86%8D%EC%96%B4%EC%B4%8C%EC%A0%95%EB%B9%84%EB%B2%95&joNo=&languageType=KO&paras=1 "새창으로 열림")에 따른 민박사업 시설로 분류되는 농어촌민박을 말합니다. 민박은 [「공중위생관리법」](http://www.law.go.kr/LSW/LsiJoLinkP.do?docType=&lsNm=%EA%B3%B5%EC%A4%91%EC%9C%84%EC%83%9D%EA%B4%80%EB%A6%AC%EB%B2%95&joNo=&languageType=KO&paras=1 "새창으로 열림")에 따른 숙박업에는 해당되지 않습니다.
+
+![](http://www.easylaw.go.kr/CSP/images/icon_arrow01.gif) **민박의 법률상 개념** [![주소복사](/common/images/etc/btn_copy_address2.gif "주소복사")](#copyAddress)
+
+![](http://www.easylaw.go.kr/CSP/images/icon_arrow03.gif) [「농어촌정비법」](http://www.law.go.kr/LSW/LsiJoLinkP.do?docType=&lsNm=%EB%86%8D%EC%96%B4%EC%B4%8C%EC%A0%95%EB%B9%84%EB%B2%95&joNo=&languageType=KO&paras=1 "새창으로 열림")에서의 민박
+
+![](http://www.easylaw.go.kr/CSP/images/icon_arrow02.gif) 농어촌민박사업은 농어촌지역 또는 준농어촌지역의 주민이 소유 및 거주하고 있는 주택을 이용해서 농어촌 소득을 늘릴 목적으로 투숙객에게 숙박·취사시설·조식 등을 제공하는 사업을 말합니다([「농어촌정비법」 제2조](http://www.law.go.kr/LSW/LsiJoLinkP.do?docType=JO&lsNm=%EB%86%8D%EC%96%B4%EC%B4%8C%EC%A0%95%EB%B9%84%EB%B2%95&joNo=000200000&languageType=KO&paras=1 "새창으로 열림")제16호라목).
+
+![](http://www.easylaw.go.kr/CSP/images/icon_arrow04.gif) "농어촌"이란 [「농업·농촌 및 식품산업 기본법」 제3조](http://www.law.go.kr/LSW/LsiJoLinkP.do?docType=JO&lsNm=%EB%86%8D%EC%97%85%E3%86%8D%EB%86%8D%EC%B4%8C+%EB%B0%8F+%EC%8B%9D%ED%92%88%EC%82%B0%EC%97%85+%EA%B8%B0%EB%B3%B8%EB%B2%95&joNo=000300000&languageType=KO&paras=1 "새창으로 열림")제5호에 따른 농촌과 [「수산업·어촌 발전 기본법」 제3조](http://www.law.go.kr/LSW/LsiJoLinkP.do?docType=JO&lsNm=%EC%88%98%EC%82%B0%EC%97%85%E3%86%8D%EC%96%B4%EC%B4%8C+%EB%B0%9C%EC%A0%84+%EA%B8%B0%EB%B3%B8%EB%B2%95&joNo=000300000&languageType=KO&paras=1 "새창으로 열림")제6호에 따른 어촌을 말하며, "준농어촌"이란 광역시 관할 구역의 지방자치단체인 구의 구역 중 농어촌 외의 지역으로서 [「농지법」](http://www.law.go.kr/LSW/LsiJoLinkP.do?docType=&lsNm=%EB%86%8D%EC%A7%80%EB%B2%95&joNo=&languageType=KO&paras=1 "새창으로 열림")에 따른 농업진흥지역과 [「개발제한구역의 지정 및 관리에 관한 특별조치법」](http://www.law.go.kr/LSW/LsiJoLinkP.do?docType=&lsNm=%EA%B0%9C%EB%B0%9C%EC%A0%9C%ED%95%9C%EA%B5%AC%EC%97%AD%EC%9D%98+%EC%A7%80%EC%A0%95+%EB%B0%8F+%EA%B4%80%EB%A6%AC%EC%97%90+%EA%B4%80%ED%95%9C+%ED%8A%B9%EB%B3%84%EC%A1%B0%EC%B9%98%EB%B2%95&joNo=&languageType=KO&paras=1 "새창으로 열림")에 따른 개발제한구역을 말합니다([「농어촌정비법」 제2조](http://www.law.go.kr/LSW/LsiJoLinkP.do?docType=JO&lsNm=%EB%86%8D%EC%96%B4%EC%B4%8C%EC%A0%95%EB%B9%84%EB%B2%95&joNo=000200000&languageType=KO&paras=1 "새창으로 열림")제1호 및 제2호).
+
+![](http://www.easylaw.go.kr/CSP/images/icon_arrow02.gif) 농어촌민박사업을 신고하려면 다음의 요건을 충족해야 합니다([![규제](http://www.easylaw.go.kr/CSP/images/icon/icon_btr.gif)](# "규제등록카드 새창 열기")[「농어촌정비법」 제81조](http://www.law.go.kr/LSW/LsiJoLinkP.do?docType=JO&lsNm=%EB%86%8D%EC%96%B4%EC%B4%8C%EC%A0%95%EB%B9%84%EB%B2%95&joNo=008100000&languageType=KO&paras=1 "새창으로 열림")제2항, [![규제](http://www.easylaw.go.kr/CSP/images/icon/icon_btr.gif)](# "규제등록카드 새창 열기")[「농어촌정비법 시행규칙」 제47조](http://www.law.go.kr/LSW/LsiJoLinkP.do?docType=JO&lsNm=%EB%86%8D%EC%96%B4%EC%B4%8C%EC%A0%95%EB%B9%84%EB%B2%95+%EC%8B%9C%ED%96%89%EA%B7%9C%EC%B9%99&joNo=004700000&languageType=KO&paras=1 "새창으로 열림") 및 [별표 3](http://www.law.go.kr/lsBylInfoPLinkR.do?bylCls=BE&lsNm=%EB%86%8D%EC%96%B4%EC%B4%8C%EC%A0%95%EB%B9%84%EB%B2%95+%EC%8B%9C%ED%96%89%EA%B7%9C%EC%B9%99&bylNo=0003&bylBrNo=00 "새창으로 열림")).
+
+![](http://www.easylaw.go.kr/CSP/images/icon_arrow04.gif) 주택 연면적이 230㎡ 미만일 것(다만, [「문화유산의 보존 및 활용에 관한 법률」 제2조](http://www.law.go.kr/LSW/LsiJoLinkP.do?docType=JO&lsNm=%EB%AC%B8%ED%99%94%EC%9C%A0%EC%82%B0%EC%9D%98+%EB%B3%B4%EC%A1%B4+%EB%B0%8F+%ED%99%9C%EC%9A%A9%EC%97%90+%EA%B4%80%ED%95%9C+%EB%B2%95%EB%A5%A0&joNo=000200000&languageType=KO&paras=1 "새창으로 열림")제3항에 따른 지정문화유산으로 지정된 주택의 경우에는 규모의 제한을 두지 않음)
+
+![](http://www.easylaw.go.kr/CSP/images/icon_arrow04.gif) 다음과 같은 기본시설을 갖출 것
+
+√ [「소방시설 설치 및 관리에 관한 법률 시행령」 별표 1](http://www.law.go.kr/lsBylInfoPLinkR.do?bylCls=BE&lsNm=%EC%86%8C%EB%B0%A9%EC%8B%9C%EC%84%A4+%EC%84%A4%EC%B9%98+%EB%B0%8F+%EA%B4%80%EB%A6%AC%EC%97%90+%EA%B4%80%ED%95%9C+%EB%B2%95%EB%A5%A0+%EC%8B%9C%ED%96%89%EB%A0%B9&bylNo=0001&bylBrNo=00 "새창으로 열림")에 따른 소화기, 단독경보형 감지기, 휴대용비상조명등을 설치할 것
+
+√ 연면적이 150㎡ 이하인 경우에는 [「소방시설 설치 및 관리에 관한 법률 시행령」 별표 1](http://www.law.go.kr/lsBylInfoPLinkR.do?bylCls=BE&lsNm=%EC%86%8C%EB%B0%A9%EC%8B%9C%EC%84%A4+%EC%84%A4%EC%B9%98+%EB%B0%8F+%EA%B4%80%EB%A6%AC%EC%97%90+%EA%B4%80%ED%95%9C+%EB%B2%95%EB%A5%A0+%EC%8B%9C%ED%96%89%EB%A0%B9&bylNo=0001&bylBrNo=00 "새창으로 열림")에 따른 유도표지를, 연면적이 150㎡를 초과하는 경우에는 [「소방시설 설치 및 관리에 관한 법률 시행령」 별표 1](http://www.law.go.kr/lsBylInfoPLinkR.do?bylCls=BE&lsNm=%EC%86%8C%EB%B0%A9%EC%8B%9C%EC%84%A4+%EC%84%A4%EC%B9%98+%EB%B0%8F+%EA%B4%80%EB%A6%AC%EC%97%90+%EA%B4%80%ED%95%9C+%EB%B2%95%EB%A5%A0+%EC%8B%9C%ED%96%89%EB%A0%B9&bylNo=0001&bylBrNo=00 "새창으로 열림")에 따른 피난구유도등을 각각 설치할 것
+
+√ 연면적이 150㎡를 초과하면서 3층 이상인 건물에는 3층부터 객실마다 [「소방시설 설치 및 관리에 관한 법률 시행령」 별표 1](http://www.law.go.kr/lsBylInfoPLinkR.do?bylCls=BE&lsNm=%EC%86%8C%EB%B0%A9%EC%8B%9C%EC%84%A4+%EC%84%A4%EC%B9%98+%EB%B0%8F+%EA%B4%80%EB%A6%AC%EC%97%90+%EA%B4%80%ED%95%9C+%EB%B2%95%EB%A5%A0+%EC%8B%9C%ED%96%89%EB%A0%B9&bylNo=0001&bylBrNo=00 "새창으로 열림")에 따른 완강기를 설치할 것
+
+※ 위 규정에도 불구하고 연면적이 150㎡를 초과하는 농어촌민박사업 시설로서 2019년 12월 30일까지 착공한 경우에는 [「소방시설 설치 및 관리에 관한 법률 시행령」 별표 1](http://www.law.go.kr/lsBylInfoPLinkR.do?bylCls=BE&lsNm=%EC%86%8C%EB%B0%A9%EC%8B%9C%EC%84%A4+%EC%84%A4%EC%B9%98+%EB%B0%8F+%EA%B4%80%EB%A6%AC%EC%97%90+%EA%B4%80%ED%95%9C+%EB%B2%95%EB%A5%A0+%EC%8B%9C%ED%96%89%EB%A0%B9&bylNo=0001&bylBrNo=00 "새창으로 열림")에 따른 피난구유도등을 유도표지로 갈음할 수 있습니다[[「농어촌정비법 시행규칙」](http://www.law.go.kr/LSW/LsiJoLinkP.do?docType=&lsNm=%EB%86%8D%EC%96%B4%EC%B4%8C%EC%A0%95%EB%B9%84%EB%B2%95+%EC%8B%9C%ED%96%89%EA%B7%9C%EC%B9%99&joNo=&languageType=KO&paras=1 "새창으로 열림")(농림축산식품부령 제389호), 부칙 제2조].
+
+![](http://www.easylaw.go.kr/CSP/images/icon_arrow04.gif) 조식을 제공하는 경우는 다음과 같은 조식 제공시설을 갖출 것
+
+√ 음식의 원재료의 보관을 위하여 냉장고 등의 시설을 갖출 것
+
+√ 음식을 조리하는 경우에는 위생적으로 조리·세척하는 시설을 갖출 것
+
+√ 주방에는 환기를 위한 시설을 갖출 것(다만, 창문이 있거나 자연적으로 환기가 가능한 경우는 제외)
+
+√ 수돗물([「수도법」 제3조](http://www.law.go.kr/LSW/LsiJoLinkP.do?docType=JO&lsNm=%EC%88%98%EB%8F%84%EB%B2%95&joNo=000300000&languageType=KO&paras=1 "새창으로 열림")제5호에 따른 수도 및 [「수도법」 제3조](http://www.law.go.kr/LSW/LsiJoLinkP.do?docType=JO&lsNm=%EC%88%98%EB%8F%84%EB%B2%95&joNo=000300000&languageType=KO&paras=1 "새창으로 열림")제14호에 따른 소규모급수시설에서 공급되는 물)이나 [![규제](http://www.easylaw.go.kr/CSP/images/icon/icon_btr.gif)](# "규제등록카드 새창 열기")[「먹는물관리법」 제5조](http://www.law.go.kr/LSW/LsiJoLinkP.do?docType=JO&lsNm=%EB%A8%B9%EB%8A%94%EB%AC%BC%EA%B4%80%EB%A6%AC%EB%B2%95&joNo=000500000&languageType=KO&paras=1 "새창으로 열림")에 따른 먹는물의 수질기준에 적합한 지하수 등을 공급할 수 있는 시설을 갖출 것
+
+※ 위의 요건 외에 필요한 조식 제공시설 기준은 시장·군수·구청장이 따로 정할 수 있습니다.
+
+![](http://www.easylaw.go.kr/CSP/images/icon_arrow04.gif) 다음과 같은 난방기[가스, 기름, 화목(나무), 연탄보일러 등 연소난방기가 있는 경우] 및 화기취급처 안전시설을 갖출 것
+
+√ 난방기 설치 장소와 보일러실·주방 등 화기취급처에는 일산화탄소 경보기, 가스누설경보기(가스보일러를 사용하는 경우에 한정), 소화기 및 자동확산소화기를 설치할 것
+
+√ 객실마다 일산화탄소 경보기를 설치할 것. 다만, 객실과 연소기가 분리되어 일산화탄소 유입 위험이 없는 경우는 제외합니다.
+
+|  |
+| --- |
+| 일반음식점의 민박행위 |
+| Q. 유명관광지에 가면 일반음식점에서 약간의 돈을 받고 잠을 잘 수 있는 공간을 빌려주는데, 이런 것도 민박에 해당되나요?    A. 농어촌민박은 농어촌지역 또는 준농어촌지역의 주민이 소유 및 거주하고 있는 주택을 이용해서 농어촌 소득을 늘릴 목적으로 투숙객에게 숙박·취사시설·조식 등을 제공하는 것에 한합니다([「농어촌정비법」 제2조](http://www.law.go.kr/LSW/LsiJoLinkP.do?docType=JO&lsNm=%EB%86%8D%EC%96%B4%EC%B4%8C%EC%A0%95%EB%B9%84%EB%B2%95&joNo=000200000&languageType=KO&paras=1 "새창으로 열림")제16호라목). 따라서 일반음식점에서는 민박사업을 할 수 없으며, 민박과 유사한 숙박영업을 하려면 [「공중위생관리법」](http://www.law.go.kr/LSW/LsiJoLinkP.do?docType=&lsNm=%EA%B3%B5%EC%A4%91%EC%9C%84%EC%83%9D%EA%B4%80%EB%A6%AC%EB%B2%95&joNo=&languageType=KO&paras=1 "새창으로 열림")에 따른 숙박업의 시설기준을 갖춘 후 공중위생영업 신고를 해야 합니다. 그렇지 않은 경우에는 무허가숙박영업이 됩니다. 무허가숙박영업을 하는 경우에는 관련 법에 따라 처벌됩니다. |
+
+※ 농어촌민박을 운영하는 사업자나 이용객 모두 ‘농어촌민박’이라는 법령상의 용어 대신 펜션이라는 용어를 많이 사용하고 있습니다. 실제로 농어촌민박사업으로 신고했지만 상호에는 ‘00 펜션’이라는 용어를 쓰는 경우가 적지 않습니다. 그러나 [「공중위생관리법」](http://www.law.go.kr/LSW/LsiJoLinkP.do?docType=&lsNm=%EA%B3%B5%EC%A4%91%EC%9C%84%EC%83%9D%EA%B4%80%EB%A6%AC%EB%B2%95&joNo=&languageType=KO&paras=1 "새창으로 열림")에 따른 숙박시설과 [「관광진흥법」](http://www.law.go.kr/LSW/LsiJoLinkP.do?docType=&lsNm=%EA%B4%80%EA%B4%91%EC%A7%84%ED%9D%A5%EB%B2%95&joNo=&languageType=KO&paras=1 "새창으로 열림")에 따른 관광펜션 및 [「제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법」](http://www.law.go.kr/LSW/LsiJoLinkP.do?docType=&lsNm=%EC%A0%9C%EC%A3%BC%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84+%EC%84%A4%EC%B9%98+%EB%B0%8F+%EA%B5%AD%EC%A0%9C%EC%9E%90%EC%9C%A0%EB%8F%84%EC%8B%9C+%EC%A1%B0%EC%84%B1%EC%9D%84+%EC%9C%84%ED%95%9C+%ED%8A%B9%EB%B3%84%EB%B2%95&joNo=&languageType=KO&paras=1 "새창으로 열림")에 따른 휴양펜션이 아닌 경우는 상호가 ‘펜션’이라도 법률상으로는 펜션이 아니라 농어촌민박임을 유의하시기 바랍니다.
+
+|  |
+| --- |
+| 외국인관광 도시민박업 |
+| "외국인관광 도시민박업"이란 [「국토의 계획 및 이용에 관한 법률」 제6조](http://www.law.go.kr/LSW/LsiJoLinkP.do?docType=JO&lsNm=%EA%B5%AD%ED%86%A0%EC%9D%98+%EA%B3%84%ED%9A%8D+%EB%B0%8F+%EC%9D%B4%EC%9A%A9%EC%97%90+%EA%B4%80%ED%95%9C+%EB%B2%95%EB%A5%A0&joNo=000600000&languageType=KO&paras=1 "새창으로 열림")제1호에 따른 도시지역([「농어촌정비법」](http://www.law.go.kr/LSW/LsiJoLinkP.do?docType=&lsNm=%EB%86%8D%EC%96%B4%EC%B4%8C%EC%A0%95%EB%B9%84%EB%B2%95&joNo=&languageType=KO&paras=1 "새창으로 열림")에 따른 농어촌지역 및 준농어촌지역 제외)의 주민이 자신이 거주하고 있는 다음의 어느 하나에 해당하는 주택을 이용하여 외국인 관광객에게 한국의 가정문화를 체험할 수 있도록 적합한 시설을 갖추고 숙식 등을 제공(도시지역에서 도시재생활성화계획에 따라 마을기업이 외국인 관광객에게 우선하여 숙식 등을 제공하면서, 외국인 관광객의 이용에 지장을 주지 않는 범위에서 해당 지역을 방문하는 내국인 관광객에게 그 지역의 특성화된 문화를 체험할 수 있도록 숙식 등을 제공하는 것을 포함)하는 업을 말합니다([규제](# "규제등록카드 새창 열기")[「관광진흥법 시행령」 제2조](http://www.law.go.kr/LSW/LsiJoLinkP.do?docType=JO&lsNm=%EA%B4%80%EA%B4%91%EC%A7%84%ED%9D%A5%EB%B2%95+%EC%8B%9C%ED%96%89%EB%A0%B9&joNo=000200000&languageType=KO&paras=1 "새창으로 열림")제1항제3호 바목).    ∙ [「건축법 시행령」 별표 1](http://www.law.go.kr/lsBylInfoPLinkR.do?bylCls=BE&lsNm=%EA%B1%B4%EC%B6%95%EB%B2%95+%EC%8B%9C%ED%96%89%EB%A0%B9&bylNo=0001&bylBrNo=00 "새창으로 열림") 제1호가목 또는 다목에 따른 단독주택 또는 다가구주택    ∙[「건축법 시행령」 별표 1](http://www.law.go.kr/lsBylInfoPLinkR.do?bylCls=BE&lsNm=%EA%B1%B4%EC%B6%95%EB%B2%95+%EC%8B%9C%ED%96%89%EB%A0%B9&bylNo=0001&bylBrNo=00 "새창으로 열림") 제2호가목, 나목 또는 다목에 따른 아파트, 연립주택 또는 다세대주택 |
+
+※ 이 사이트의 <민박 사업자>에서 다루는 민박은 [「농어촌정비법」](http://www.law.go.kr/LSW/LsiJoLinkP.do?docType=&lsNm=%EB%86%8D%EC%96%B4%EC%B4%8C%EC%A0%95%EB%B9%84%EB%B2%95&joNo=&languageType=KO&paras=1 "새창으로 열림")에 따라 민박사업 시설로 분류되는 농어촌민박을 말합니다.
+
+![](http://www.easylaw.go.kr/CSP/images/icon_arrow01.gif) **유사 영업행위와의 구분: 펜션업의 범위** [![주소복사](/common/images/etc/btn_copy_address2.gif "주소복사")](#copyAddress)
+
+![](http://www.easylaw.go.kr/CSP/images/icon_arrow03.gif) [「공중위생관리법」](http://www.law.go.kr/LSW/LsiJoLinkP.do?docType=&lsNm=%EA%B3%B5%EC%A4%91%EC%9C%84%EC%83%9D%EA%B4%80%EB%A6%AC%EB%B2%95&joNo=&languageType=KO&paras=1 "새창으로 열림")에 따른 숙박업
+
+![](http://www.easylaw.go.kr/CSP/images/icon_arrow02.gif) [「공중위생관리법」](http://www.law.go.kr/LSW/LsiJoLinkP.do?docType=&lsNm=%EA%B3%B5%EC%A4%91%EC%9C%84%EC%83%9D%EA%B4%80%EB%A6%AC%EB%B2%95&joNo=&languageType=KO&paras=1 "새창으로 열림")은 숙박업에 관한 규정을 두고 있습니다.
+
+![](http://www.easylaw.go.kr/CSP/images/icon_arrow02.gif) 숙박업은 손님이 잠을 자고 머물 수 있도록 시설 및 설비 등의 서비스를 제공하는 영업을 말합니다([「공중위생관리법」 제2조](http://www.law.go.kr/LSW/LsiJoLinkP.do?docType=JO&lsNm=%EA%B3%B5%EC%A4%91%EC%9C%84%EC%83%9D%EA%B4%80%EB%A6%AC%EB%B2%95&joNo=000200000&languageType=KO&paras=1 "새창으로 열림")제1항제2호 본문).
+
+![](http://www.easylaw.go.kr/CSP/images/icon_arrow02.gif) 그러나 다음의 시설은 [「공중위생관리법」](http://www.law.go.kr/LSW/LsiJoLinkP.do?docType=&lsNm=%EA%B3%B5%EC%A4%91%EC%9C%84%EC%83%9D%EA%B4%80%EB%A6%AC%EB%B2%95&joNo=&languageType=KO&paras=1 "새창으로 열림")에 따른 숙박업에서 제외됩니다([「공중위생관리법」 제2조](http://www.law.go.kr/LSW/LsiJoLinkP.do?docType=JO&lsNm=%EA%B3%B5%EC%A4%91%EC%9C%84%EC%83%9D%EA%B4%80%EB%A6%AC%EB%B2%95&joNo=000200000&languageType=KO&paras=1 "새창으로 열림")제1항제2호 단서 및 [「공중위생관리법 시행령」 제2조](http://www.law.go.kr/LSW/LsiJoLinkP.do?docType=JO&lsNm=%EA%B3%B5%EC%A4%91%EC%9C%84%EC%83%9D%EA%B4%80%EB%A6%AC%EB%B2%95+%EC%8B%9C%ED%96%89%EB%A0%B9&joNo=000200000&languageType=KO&paras=1 "새창으로 열림")제1항).
+
+![](http://www.easylaw.go.kr/CSP/images/icon_arrow04.gif) [「농어촌정비법」](http://www.law.go.kr/LSW/LsiJoLinkP.do?docType=&lsNm=%EB%86%8D%EC%96%B4%EC%B4%8C%EC%A0%95%EB%B9%84%EB%B2%95&joNo=&languageType=KO&paras=1 "새창으로 열림")에 따른 농어촌민박사업용 시설
+
+![](http://www.easylaw.go.kr/CSP/images/icon_arrow04.gif) [「산림문화·휴양에 관한 법률」](http://www.law.go.kr/LSW/LsiJoLinkP.do?docType=&lsNm=%EC%82%B0%EB%A6%BC%EB%AC%B8%ED%99%94%E3%86%8D%ED%9C%B4%EC%96%91%EC%97%90+%EA%B4%80%ED%95%9C+%EB%B2%95%EB%A5%A0&joNo=&languageType=KO&paras=1 "새창으로 열림")에 따라 자연휴양림 안에 설치된 시설
+
+![](http://www.easylaw.go.kr/CSP/images/icon_arrow04.gif) [「청소년활동 진흥법」 제10조](http://www.law.go.kr/LSW/LsiJoLinkP.do?docType=JO&lsNm=%EC%B2%AD%EC%86%8C%EB%85%84%ED%99%9C%EB%8F%99+%EC%A7%84%ED%9D%A5%EB%B2%95&joNo=001000000&languageType=KO&paras=1 "새창으로 열림")제1호에 따른 청소년수련시설
+
+![](http://www.easylaw.go.kr/CSP/images/icon_arrow04.gif) [![규제](http://www.easylaw.go.kr/CSP/images/icon/icon_btr.gif)](# "규제등록카드 새창 열기")[「관광진흥법」 제4조](http://www.law.go.kr/LSW/LsiJoLinkP.do?docType=JO&lsNm=%EA%B4%80%EA%B4%91%EC%A7%84%ED%9D%A5%EB%B2%95&joNo=000400000&languageType=KO&paras=1 "새창으로 열림")에 따라 등록한 외국인관광 도시민박업용 시설 및 한옥체험업용 시설
+
+![](http://www.easylaw.go.kr/CSP/images/icon_arrow03.gif) [「관광진흥법」](http://www.law.go.kr/LSW/LsiJoLinkP.do?docType=&lsNm=%EA%B4%80%EA%B4%91%EC%A7%84%ED%9D%A5%EB%B2%95&joNo=&languageType=KO&paras=1 "새창으로 열림")에 따른 관광 편의시설업(관광펜션)
+
+![](http://www.easylaw.go.kr/CSP/images/icon_arrow02.gif) [「관광진흥법」](http://www.law.go.kr/LSW/LsiJoLinkP.do?docType=&lsNm=%EA%B4%80%EA%B4%91%EC%A7%84%ED%9D%A5%EB%B2%95&joNo=&languageType=KO&paras=1 "새창으로 열림")은 관광 편의시설업의 한 유형으로 관광펜션업에 관한 규정을 두고 있습니다.
+
+![](http://www.easylaw.go.kr/CSP/images/icon_arrow02.gif) 관광펜션업은 숙박시설을 운영하는 자가 자연·문화 체험관광에 적합한 시설을 갖추어 관광객에게 이용하게 하는 업을 말합니다([「관광진흥법」 제3조](http://www.law.go.kr/LSW/LsiJoLinkP.do?docType=JO&lsNm=%EA%B4%80%EA%B4%91%EC%A7%84%ED%9D%A5%EB%B2%95&joNo=000300000&languageType=KO&paras=1 "새창으로 열림")제1항제7호·제2항 및 [![규제](http://www.easylaw.go.kr/CSP/images/icon/icon_btr.gif)](# "규제등록카드 새창 열기")[「관광진흥법 시행령」 제2조](http://www.law.go.kr/LSW/LsiJoLinkP.do?docType=JO&lsNm=%EA%B4%80%EA%B4%91%EC%A7%84%ED%9D%A5%EB%B2%95+%EC%8B%9C%ED%96%89%EB%A0%B9&joNo=000200000&languageType=KO&paras=1 "새창으로 열림")제1항제6호아목). 관광펜션으로 지정되면 사업장에 관광표지를 부착할 수 있으며, 시설 개보수 자금의 지원 등을 받을 수 있습니다.
+
+![](http://www.easylaw.go.kr/CSP/images/icon_arrow02.gif) 관광펜션으로 지정되기 위해서는 다음의 요건을 충족해야 합니다([![규제](http://www.easylaw.go.kr/CSP/images/icon/icon_btr.gif)](# "규제등록카드 새창 열기")[「관광진흥법」 제6조](http://www.law.go.kr/LSW/LsiJoLinkP.do?docType=JO&lsNm=%EA%B4%80%EA%B4%91%EC%A7%84%ED%9D%A5%EB%B2%95&joNo=000600000&languageType=KO&paras=1 "새창으로 열림"), [![규제](http://www.easylaw.go.kr/CSP/images/icon/icon_btr.gif)](# "규제등록카드 새창 열기")[「관광진흥법 시행규칙」 제15조](http://www.law.go.kr/LSW/LsiJoLinkP.do?docType=JO&lsNm=%EA%B4%80%EA%B4%91%EC%A7%84%ED%9D%A5%EB%B2%95+%EC%8B%9C%ED%96%89%EA%B7%9C%EC%B9%99&joNo=001500000&languageType=KO&paras=1 "새창으로 열림") 및 [별표 2](http://www.law.go.kr/lsBylInfoPLinkR.do?bylCls=BE&lsNm=%EA%B4%80%EA%B4%91%EC%A7%84%ED%9D%A5%EB%B2%95+%EC%8B%9C%ED%96%89%EA%B7%9C%EC%B9%99&bylNo=0002&bylBrNo=00 "새창으로 열림") 제8호).
+
+![](http://www.easylaw.go.kr/CSP/images/icon_arrow04.gif) 자연 및 주변환경과 조화를 이루는 4층 이하의 건축물일 것
+
+![](http://www.easylaw.go.kr/CSP/images/icon_arrow04.gif) 객실이 30실 이하일 것
+
+![](http://www.easylaw.go.kr/CSP/images/icon_arrow04.gif) 취사 및 숙박에 필요한 설비를 갖출 것
+
+![](http://www.easylaw.go.kr/CSP/images/icon_arrow04.gif) 바비큐장, 캠프파이어장 등 주인의 환대가 가능한 1종류 이상의 이용시설을 갖추고 있을 것(다만, 관광펜션이 수 개의 건물 동으로 이루어진 경우에는 그 시설을 공동으로 설치할 수 있음)
+
+![](http://www.easylaw.go.kr/CSP/images/icon_arrow04.gif) 숙박시설 및 이용시설에 대해 외국어 안내 표기를 할 것
+
+![](http://www.easylaw.go.kr/CSP/images/icon_arrow02.gif) 위 관광펜션 지정 규정은 [「제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법」](http://www.law.go.kr/LSW/LsiJoLinkP.do?docType=&lsNm=%EC%A0%9C%EC%A3%BC%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84+%EC%84%A4%EC%B9%98+%EB%B0%8F+%EA%B5%AD%EC%A0%9C%EC%9E%90%EC%9C%A0%EB%8F%84%EC%8B%9C+%EC%A1%B0%EC%84%B1%EC%9D%84+%EC%9C%84%ED%95%9C+%ED%8A%B9%EB%B3%84%EB%B2%95&joNo=&languageType=KO&paras=1 "새창으로 열림")의 적용을 받는 지역에 대해서는 적용되지 않습니다([![규제](http://www.easylaw.go.kr/CSP/images/icon/icon_btr.gif)](# "규제등록카드 새창 열기")[「관광진흥법 시행령」 제2조](http://www.law.go.kr/LSW/LsiJoLinkP.do?docType=JO&lsNm=%EA%B4%80%EA%B4%91%EC%A7%84%ED%9D%A5%EB%B2%95+%EC%8B%9C%ED%96%89%EB%A0%B9&joNo=000200000&languageType=KO&paras=1 "새창으로 열림")제2항).
+
+![](http://www.easylaw.go.kr/CSP/images/icon_arrow01.gif) **이 사이트에서 민박 및 민박 사업자의 범위** [![주소복사](/common/images/etc/btn_copy_address2.gif "주소복사")](#copyAddress)
+
+![](http://www.easylaw.go.kr/CSP/images/icon_arrow03.gif) 민박 사업자의 범위
+
+![](http://www.easylaw.go.kr/CSP/images/icon_arrow02.gif) 이 사이트 <민박 사업자>에서는 자연인인 개인이 민박사업을 계획하고 민박사업 시설을 건축 또는 매입해서 민박 운영에 필요한 시설을 갖춘 후 민박을 운영하는 민박사업의 전반적인 창업 절차에 대해 알아보도록 하겠습니다.
+
+![](http://www.easylaw.go.kr/CSP/images/icon_arrow03.gif) 민박의 범위
+
+![](http://www.easylaw.go.kr/CSP/images/icon_arrow02.gif) 이 사이트 <민박 사업자>에서 다루는 민박은 [「농어촌정비법」](http://www.law.go.kr/LSW/LsiJoLinkP.do?docType=&lsNm=%EB%86%8D%EC%96%B4%EC%B4%8C%EC%A0%95%EB%B9%84%EB%B2%95&joNo=&languageType=KO&paras=1 "새창으로 열림")에 따라 민박사업 시설로 분류되는 농어촌민박을 말합니다.
+
+<농어촌민박사업과 숙박업의 비교>
+
+농어촌민박사업과 숙박업의 비교
+
+| 비 교 | 농어촌민박사업 | 숙박업 |
+| 주요 법령 | [「농어촌정비법」](http://www.law.go.kr/LSW/LsiJoLinkP.do?docType=&lsNm=%EB%86%8D%EC%96%B4%EC%B4%8C%EC%A0%95%EB%B9%84%EB%B2%95&joNo=&languageType=KO&paras=1 "새창으로 열림") | [「공중위생관리법」](http://www.law.go.kr/LSW/LsiJoLinkP.do?docType=&lsNm=%EA%B3%B5%EC%A4%91%EC%9C%84%EC%83%9D%EA%B4%80%EB%A6%AC%EB%B2%95&joNo=&languageType=KO&paras=1 "새창으로 열림") |
+| 사업자 자격 | 농어촌지역 또는 준농어촌지역의 주민 | 누구나 가능 |
+| 건축물의 용도 |  |  |
+|  | [「건축법 시행령」 별표 1](http://www.law.go.kr/lsBylInfoPLinkR.do?bylCls=BE&lsNm=%EA%B1%B4%EC%B6%95%EB%B2%95+%EC%8B%9C%ED%96%89%EB%A0%B9&bylNo=0001&bylBrNo=00 "새창으로 열림") 제1호에 따른 단독주택의 건축이 가능한 곳 | [「건축법 시행령」 별표 1](http://www.law.go.kr/lsBylInfoPLinkR.do?bylCls=BE&lsNm=%EA%B1%B4%EC%B6%95%EB%B2%95+%EC%8B%9C%ED%96%89%EB%A0%B9&bylNo=0001&bylBrNo=00 "새창으로 열림") 제15호에 따른 숙박시설의 건축이 가능한 곳 |
+| 시설 규모 | 주택 연면적 230제곱미터 미만  ※ 다만, [「문화유산의 보존 및 활용에 관한 법률」 제2조](http://www.law.go.kr/LSW/LsiJoLinkP.do?docType=JO&lsNm=%EB%AC%B8%ED%99%94%EC%9C%A0%EC%82%B0%EC%9D%98+%EB%B3%B4%EC%A1%B4+%EB%B0%8F+%ED%99%9C%EC%9A%A9%EC%97%90+%EA%B4%80%ED%95%9C+%EB%B2%95%EB%A5%A0&joNo=000200000&languageType=KO&paras=1 "새창으로 열림")제3항에 따른 지정문화유산으로 지정된 주택의 경우에는 규모의 제한을 두지 않음 | 제한 없음 |
+|  | 소득세 과세  ※ 다만, 농어민이 부업소득을 올리기 위한 목적으로 운영하는 경우에는 연 3천만원 이하의 범위에서 소득세가 비과세됨 | 소득세 과세 |
+
+ 
