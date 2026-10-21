@@ -1,0 +1,18 @@
+run:
+  generations: 1
+system:
+  parallel_requests: 1
+  parallel_attempts: 1
+plugins:
+  target_type: openai.OpenAICompatible
+  target_name: qwen2.5-7b
+  generators:
+    openai:
+      OpenAICompatible:
+        uri: http://127.0.0.1:8080/v1/
+        temperature: 0.0
+        max_tokens: 256
+        context_len: 4096
+        stop: []
+reporting:
+  report_dir: ./reports

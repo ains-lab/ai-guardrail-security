@@ -1,0 +1,6 @@
+# Step 3 전용. 하네스 본체(fcg/, run_scenarios.py)는 표준 라이브러리만 쓰므로 이 파일은 eval_ragas.py 에만 필요하다.
+# Python 3.11 / 3.12 에서 설치 확인함 (3.14 는 scikit-network 빌드 실패).
+# langchain-community 를 0.4 미만으로 고정하지 않으면 `import ragas` 가 ModuleNotFoundError 로 실패했다 (ragas 0.4.3 + langchain-community 0.4.2).
+ragas==0.4.3
+langchain-community<0.4
+openai

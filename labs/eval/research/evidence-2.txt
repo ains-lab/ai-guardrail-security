@@ -1,0 +1,272 @@
+[주메뉴 바로가기](#gnb) [본문으로 바로가기](#container)
+
+![태극기](/images/web/nts/main/eg_logo.png)이 누리집은 대한민국 공식 전자정부 누리집입니다.
+
+[ENG*LISH*](https://www.nts.go.kr/english/main.do "영문홈페이지 새창이동")
+
+화면크기  [*화면크기 축소*](javascript:scaleOut();) [*화면크기 원래대로*](javascript:scaleInit();) [*화면크기 확대*](javascript:scaleIn();)
+
+## 검색창
+
+[*전체메뉴*](#fullMenu)
+
+* [알림·소식](/nts/na/ntt/selectNttList.do?mi=2201&bbsId=1028 "알림·소식")
+  + [보도자료](/nts/na/ntt/selectNttList.do?mi=2201&bbsId=1028 "보도자료 ")
+  + [국민체감 성과](/nts/na/ntt/selectNttList.do?mi=41090&bbsId=50849 "국민체감 성과")
+  + [신문기사 모음](/nts/na/ntt/selectNttList.do?mi=2202&bbsId=1035 "신문기사 모음")
+  + [보도설명 자료](/nts/na/ntt/selectNttList.do?mi=2203&bbsId=1041 "보도설명 자료")
+    - [정정자료](/nts/na/ntt/selectNttList.do?mi=2203&bbsId=1041 "정정자료")
+    - [반론자료](/nts/na/ntt/selectNttList.do?mi=41100&bbsId=50853 "반론자료")
+    - [설명자료](/nts/na/ntt/selectNttList.do?mi=41099&bbsId=50852 "설명자료")
+  + [고시∙공고∙행정예고](/nts/na/ntt/selectNttList.do?mi=2205&bbsId=1120 "고시∙공고∙행정예고")
+    - [고시](/nts/na/ntt/selectNttList.do?mi=2205&bbsId=1120 "고시")
+    - [공고](/nts/na/ntt/selectNttList.do?mi=2206&bbsId=1122 "공고")
+    - [훈령∙고시 행정예고](/nts/na/ntt/selectNttList.do?mi=6420&bbsId=1102 "훈령∙고시 행정예고")
+  + [공지사항](/nts/na/ntt/selectNttList.do?mi=2207&bbsId=1011 "공지사항")
+  + [국세청 소식](/nts/na/ntt/selectNttList.do?mi=2209&bbsId=1022 "국세청 소식")
+    - [소식지(뉴스레터)](/nts/na/ntt/selectNttList.do?mi=2209&bbsId=1022 "소식지(뉴스레터)")
+    - [국세](/nts/na/ntt/selectNttList.do?mi=2210&bbsId=1034 "국세")
+    - [사회공헌](/nts/cm/cntnts/cntntsView.do?mi=11923&cntntsId=8630 "사회공헌")
+  + [모범납세자](/nts/prgn/selectPrgnTaxpyerBdList.do?mi=2214 "모범납세자")
+  + [국선대리인](/nts/outwr/selectOutwrAgentBdInfo.do?mi=40648 "국선대리인")
+* [국민소통](/nts/ad/cntnts/cntntsView.do?mi=13366 "국민소통")
+  + [국세청100배 활용하기 가이드맵](/nts/ad/cntnts/cntntsView.do?mi=13366 "국세청100배 활용하기 가이드맵")
+  + [규제혁신](/nts/cm/cntnts/cntntsView.do?mi=13346&cntntsId=8654 "규제혁신")
+    - [규제혁신 신문고](/nts/cm/cntnts/cntntsView.do?mi=13346&cntntsId=8654 "규제혁신 신문고")
+    - [규제혁신 과제현황](/nts/cm/cntnts/cntntsView.do?mi=6714&cntntsId=8121 "규제혁신 과제현황")
+    - [심사중인 규제법안](/nts/cm/cntnts/cntntsView.do?mi=6715&cntntsId=8122 "심사중인 규제법안")
+    - [부처별 보도자료](/nts/cm/cntnts/cntntsView.do?mi=6716&cntntsId=8123 "부처별 보도자료")
+    - [규제법령 정보](/nts/cm/cntnts/cntntsView.do?mi=6717&cntntsId=8124 "규제법령 정보")
+    - [규제입증 요청](/nts/cm/cntnts/cntntsView.do?mi=13347&cntntsId=8655 "규제입증 요청")
+  + [적극행정](/nts/cm/cntnts/cntntsView.do?mi=6720&cntntsId=8126 "적극행정")
+    - [제도소개](/nts/cm/cntnts/cntntsView.do?mi=6720&cntntsId=8126 "제도소개")
+    - [적극행정 국민추천](https://www.mpm.go.kr/proactivePublicService/activeRecommand/recommendation "적극행정 국민추천(새창)")
+    - [소극행정 신고](https://www.epeople.go.kr/nep/pttn/negativePttn/NegativePttnCotents.npaid "소극행정 신고(새창)")
+    - [적극행정 자료실](https://www.mpm.go.kr/proactivePublicService/local/localNotice "적극행정 자료실(새창)")
+  + [납세자권익 24](/taxpayer_advocate/main.do?mi=132011 "납세자권익 24(새창)")
+* [국세신고안내](/nts/cm/cntnts/cntntsView.do?mi=2224&cntntsId=7664 "국세신고안내")
+  + [개인신고안내](/nts/cm/cntnts/cntntsView.do?mi=2224&cntntsId=7664 "개인신고안내")
+
+    - [종합소득세](/nts/cm/cntnts/cntntsView.do?mi=2224&cntntsId=7664 "종합소득세")
+    - [주택임대소득](/nts/cm/cntnts/cntntsView.do?mi=2246&cntntsId=7678 "주택임대소득")
+    - [종교인소득](/nts/cm/cntnts/cntntsView.do?mi=2265&cntntsId=7690 "종교인소득")
+    - [부가가치세](/nts/cm/cntnts/cntntsView.do?mi=2272&cntntsId=7693 "부가가치세")
+    - [사업장현황신고](/nts/cm/cntnts/cntntsView.do?mi=2283&cntntsId=7699 "사업장현황신고")
+    - [원천세](/nts/cm/cntnts/cntntsView.do?mi=2289&cntntsId=7701 "원천세")
+    - [연말정산](/nts/cm/cntnts/cntntsView.do?mi=2304&cntntsId=238938 "연말정산")
+    - [양도소득세](/nts/cm/cntnts/cntntsView.do?mi=2308&cntntsId=7707 "양도소득세")
+    - [밑줄 쫙, 부동산세금 체크포인트](/nts/na/ntt/selectNttList.do?mi=40989&bbsId=50822 "밑줄 쫙, 부동산세금 체크포인트")
+    - [국세청이 알려주는 양도(종부)세 실수사례](/nts/na/ntt/selectNttList.do?mi=40671&bbsId=50810 "국세청이 알려주는 양도(종부)세 실수사례")
+    - [양도소득세 월간 질의 TOP10](/nts/na/ntt/selectNttList.do?mi=40395&bbsId=50729 "양도소득세 월간 질의 TOP10")
+    - [상속 · 증여 안심 가이드](/nts/na/ntt/selectNttList.do?mi=40552&bbsId=50790 "상속 · 증여 안심 가이드")
+    - [상속세](/nts/cm/cntnts/cntntsView.do?mi=2324&cntntsId=7718 "상속세")
+    - [증여세](/nts/cm/cntnts/cntntsView.do?mi=2338&cntntsId=7726 "증여세")
+    - [종합부동산세](/nts/cm/cntnts/cntntsView.do?mi=2351&cntntsId=7733 "종합부동산세")
+    - [세금납부 안내](/nts/cm/cntnts/cntntsView.do?mi=2364&cntntsId=7741 "세금납부 안내")
+  + [법인신고안내](/nts/cm/cntnts/cntntsView.do?mi=2370&cntntsId=7744 "법인신고안내")
+
+    - [법인세](/nts/cm/cntnts/cntntsView.do?mi=2370&cntntsId=7744 "법인세")
+    - [공익법인](/nts/cm/cntnts/cntntsView.do?mi=2388&cntntsId=7751 "공익법인")
+    - [부가가치세](/nts/cm/cntnts/cntntsView.do?mi=2401&cntntsId=7693 "부가가치세")
+    - [원천세](/nts/cm/cntnts/cntntsView.do?mi=2413&cntntsId=7701 "원천세")
+    - [연말정산](/nts/cm/cntnts/cntntsView.do?mi=6645&cntntsId=238938 "연말정산")
+    - [종교인소득](/nts/cm/cntnts/cntntsView.do?mi=2431&cntntsId=7690 "종교인소득")
+    - [세금납부 안내](/nts/cm/cntnts/cntntsView.do?mi=2438&cntntsId=7774 "세금납부 안내")
+    - [종합부동산세](/nts/cm/cntnts/cntntsView.do?mi=40375&cntntsId=7733 "종합부동산세")
+* [국세정책/제도](/nts/cm/cntnts/cntntsView.do?mi=2443&cntntsId=7776 "국세정책/제도")
+  + [세무조사 제도](/nts/cm/cntnts/cntntsView.do?mi=40999&cntntsId=239048 "세무조사 제도")
+    - [세무조사 개요](/nts/cm/cntnts/cntntsView.do?mi=40999&cntntsId=239048 "세무조사 개요")
+    - [법인사업자 정기조사 선정기준](/nts/cm/cntnts/cntntsView.do?mi=41000&cntntsId=239049 "법인사업자 정기조사 선정기준")
+    - [개인사업자 정기조사 선정기준](/nts/cm/cntnts/cntntsView.do?mi=41021&cntntsId=239050 "개인사업자 정기조사 선정기준")
+    - [세무조사 중점검증항목](/nts/na/ntt/selectNttList.do?mi=41105&bbsId=50854 "세무조사 중점검증항목")
+    - [주요서식](/nts/na/ntt/selectNttList.do?mi=41022&bbsId=50827 "주요서식")
+  + [사업자등록 안내](/nts/cm/cntnts/cntntsView.do?mi=2443&cntntsId=7776 "사업자등록 안내")
+    - [사업자등록 안내](/nts/cm/cntnts/cntntsView.do?mi=2443&cntntsId=7776 "사업자등록 안내")
+    - [사업자등록 신청](/nts/cm/cntnts/cntntsView.do?mi=2444&cntntsId=7777 "사업자등록 신청")
+    - [제출서류 및 교부](/nts/ad/cntnts/cntntsView.do?mi=2445 "제출서류 및 교부")
+    - [사업자등록 정정](/nts/cm/cntnts/cntntsView.do?mi=2446&cntntsId=7779 "사업자등록 정정")
+    - [휴∙폐업](/nts/cm/cntnts/cntntsView.do?mi=2447&cntntsId=7780 "휴∙폐업")
+    - [자주묻는 질문 답변](/nts/na/ntt/selectNttList.do?mi=2448&bbsId=30664 "자주묻는 질문 답변")
+  + [온라인취약업종 세무 안내](/nts/cm/cntnts/cntntsView.do?mi=2479&cntntsId=7801 "온라인취약업종 세무 안내")
+    - [1인미디어 창작자](/nts/cm/cntnts/cntntsView.do?mi=2479&cntntsId=7801 "1인미디어 창작자")
+    - [SNS마켓 사업자](/nts/cm/cntnts/cntntsView.do?mi=2482&cntntsId=7803 "SNS마켓 사업자")
+    - [공유숙박 사업자](/nts/cm/cntnts/cntntsView.do?mi=2485&cntntsId=7805 "공유숙박 사업자")
+    - [참고자료실](/nts/na/ntt/selectNttList.do?mi=40541&bbsId=50762 "참고자료실")
+    - [동영상자료실](/nts/na/ntt/selectNttList.do?mi=2489&bbsId=50666 "동영상자료실")
+  + [근로∙자녀장려금](/nts/cm/cntnts/cntntsView.do?mi=2450&cntntsId=7781 "근로∙자녀장려금")
+    - [근로장려금 소개](/nts/cm/cntnts/cntntsView.do?mi=2450&cntntsId=7781 "근로장려금 소개")
+    - [자녀장려금 소개](/nts/cm/cntnts/cntntsView.do?mi=2451&cntntsId=7782 "자녀장려금 소개")
+    - [신청자격](/nts/cm/cntnts/cntntsView.do?mi=2452&cntntsId=7783 "신청자격")
+    - [신청기간 및 방법](/nts/cm/cntnts/cntntsView.do?mi=40397&cntntsId=238977 "신청기간 및 방법")
+    - [심사 및 지급](/nts/cm/cntnts/cntntsView.do?mi=2453&cntntsId=7784 "심사 및 지급")
+    - [주요서식](/nts/na/ntt/selectNttList.do?mi=2455&bbsId=30046 "주요서식")
+    - [참고자료실](/nts/na/ntt/selectNttList.do?mi=2456&bbsId=30047 "참고자료실")
+    - [동영상자료실](/nts/na/ntt/selectNttList.do?mi=7267&bbsId=50664 "동영상자료실")
+    - [카드뉴스](/nts/na/ntt/selectNttList.do?mi=2457&bbsId=1148 "카드뉴스")
+  + [청년지원정책](/nts/cm/cntnts/cntntsView.do?mi=41125&cntntsId=239080 "청년지원정책")
+    - [스타트업 세금든든케어](/nts/cm/cntnts/cntntsView.do?mi=41125&cntntsId=239080 "스타트업 세금든든케어")
+    - [세무조사 유예 및 시기선택](/nts/cm/cntnts/cntntsView.do?mi=41126&cntntsId=239081 "세무조사 유예 및 시기선택")
+    - [세액감면 및 절세혜택](/nts/cm/cntnts/cntntsView.do?mi=41127&cntntsId=239082 "세액감면 및 절세혜택")
+    - [창업멘토링 및 공감소통](/nts/cm/cntnts/cntntsView.do?mi=41128&cntntsId=239083 "창업멘토링 및 공감소통")
+    - [조세지원제도](/nts/cm/cntnts/cntntsView.do?mi=41129&cntntsId=239084 "조세지원제도")
+    - [징수유예 등](/nts/cm/cntnts/cntntsView.do?mi=41130&cntntsId=239085 "징수유예 등")
+    - [주류시장 진입 완화](/nts/cm/cntnts/cntntsView.do?mi=41131&cntntsId=239086 "주류시장 진입 완화")
+    - [학자금 상환유예](/nts/cm/cntnts/cntntsView.do?mi=41132&cntntsId=239087 "학자금 상환유예")
+    - [체납액 특례제도](/nts/cm/cntnts/cntntsView.do?mi=41133&cntntsId=239088 "체납액 특례제도")
+    - [납세자 세금신고](/nts/cm/cntnts/cntntsView.do?mi=41134&cntntsId=239089 "납세자 세금신고")
+  + [전자(세금)계산서/현금영수증/신용카드](/nts/cm/cntnts/cntntsView.do?mi=2460&cntntsId=7786 "전자(세금)계산서/현금영수증/신용카드")
+    - [전자(세금)계산서](/nts/cm/cntnts/cntntsView.do?mi=2460&cntntsId=7786 "전자(세금)계산서")
+    - [현금영수증∙신용카드](/nts/cm/cntnts/cntntsView.do?mi=2468&cntntsId=7793 "현금영수증∙신용카드")
+  + [전자기부금영수증 제도](#?mi=40250 "전자기부금영수증 제도")
+    - [제도 안내](/nts/cm/cntnts/cntntsView.do?mi=40251&cntntsId=238907 "제도 안내")
+    - [전자기부금영수증 발급 시스템 운영](/nts/cm/cntnts/cntntsView.do?mi=40252&cntntsId=238908 "전자기부금영수증 발급 시스템 운영")
+    - [참고자료실](/nts/na/ntt/selectNttList.do?mi=40253&bbsId=50691 "참고자료실")
+    - [자주 묻는 질문](/nts/na/ntt/selectNttList.do?mi=40254&bbsId=50692 "자주 묻는 질문")
+  + [전자송달 제도](/nts/cm/cntnts/cntntsView.do?mi=41102&cntntsId=239068 "전자송달 제도")
+    - [제도 안내](/nts/cm/cntnts/cntntsView.do?mi=41102&cntntsId=239068 "제도 안내")
+  + [가업승계 세무컨설팅](#?mi=40533 "가업승계 세무컨설팅")
+    - [제도안내](/nts/cm/cntnts/cntntsView.do?mi=40594&cntntsId=239010 "제도안내")
+    - [신청 방법 및 대상자 선정](/nts/cm/cntnts/cntntsView.do?mi=40595&cntntsId=239011 "신청 방법 및 대상자 선정")
+    - [참고자료실](/nts/na/ntt/selectNttList.do?mi=40599&bbsId=50796 "참고자료실")
+    - [동영상자료실](/nts/na/ntt/selectNttList.do?mi=40593&bbsId=50793 "동영상자료실")
+  + [소득세 공제감면 컨설팅 제도](/nts/cm/cntnts/cntntsView.do?mi=41093&cntntsId=239070 "소득세 공제감면 컨설팅 제도")
+    - [제도 안내](/nts/cm/cntnts/cntntsView.do?mi=41093&cntntsId=239070 "제도 안내")
+    - [신청방법 및 혜택](/nts/cm/cntnts/cntntsView.do?mi=41094&cntntsId=239071 "신청방법 및 혜택")
+  + [법인세 공제감면 컨설팅 제도](/nts/cm/cntnts/cntntsView.do?mi=2498&cntntsId=7809 "법인세 공제감면 컨설팅 제도")
+    - [제도 안내](/nts/cm/cntnts/cntntsView.do?mi=2498&cntntsId=7809 "제도 안내")
+    - [신청방법 및 혜택](/nts/cm/cntnts/cntntsView.do?mi=2499&cntntsId=7810 "신청방법 및 혜택")
+    - [주요서식 작성요령/사례](/nts/na/ntt/selectNttList.do?mi=40543&bbsId=50768 "주요서식 작성요령/사례 ")
+    - [동영상자료실](/nts/na/ntt/selectNttList.do?mi=41121&bbsId=50855 "동영상자료실")
+  + [과세정보 사전수요/ 비밀유지 확인 컨설팅](#?mi=40623 "과세정보 사전수요/ 비밀유지 확인 컨설팅")
+    - [과세정보 사전 수요 컨설팅](/nts/cm/cntnts/cntntsView.do?mi=40584&cntntsId=239005 "과세정보 사전 수요 컨설팅")
+    - [비밀유지 확인 컨설팅](/nts/cm/cntnts/cntntsView.do?mi=40625&cntntsId=239016 "비밀유지 확인 컨설팅")
+  + [착한임대인 세액공제 제도](#?mi=40030 "착한임대인 세액공제 제도")
+    - [소개](/nts/cm/cntnts/cntntsView.do?mi=40005&cntntsId=238883 "소개")
+    - [핵심 가이드](/nts/cm/cntnts/cntntsView.do?mi=40041&cntntsId=238889 "핵심 가이드")
+    - [주요서식 작성요령/사례](/nts/na/ntt/selectNttList.do?mi=40255&bbsId=50693 "주요서식 작성요령/사례")
+    - [세액공제 계산](/comm/nttFileDownload.do?fileKey=2daacbc878d6b3b17221d15c96735dc1&mi=40368 "세액공제 계산")
+    - [참고자료실](/nts/na/ntt/selectNttList.do?mi=40006&bbsId=50671 "참고자료실")
+    - [자주 묻는 질문](/nts/na/ntt/selectNttList.do?mi=40007&bbsId=50670 "자주 묻는 질문")
+    - [카드뉴스/리플릿](/nts/na/ntt/selectNttList.do?mi=40031&bbsId=50672 "카드뉴스/리플릿")
+    - [동영상자료실](/nts/na/ntt/selectNttList.do?mi=40302&bbsId=50695 "동영상자료실")
+  + [가상자산소득 과세제도](#?mi=40369 "가상자산소득 과세제도")
+    - [가상자산소득 과세 개요](/nts/cm/cntnts/cntntsView.do?mi=40370&cntntsId=238935 "가상자산소득 과세 개요")
+    - [가상자산사업자 거래자료 제출](/nts/cm/cntnts/cntntsView.do?mi=40372&cntntsId=238937 "가상자산사업자 거래자료 제출")
+    - [주요서식](/nts/na/ntt/selectNttList.do?mi=40400&bbsId=50734 "주요서식")
+    - [참고자료실](/nts/na/ntt/selectNttList.do?mi=40386&bbsId=50720 "참고자료실")
+  + [소득자료 제출 안내](#?mi=40346 "소득자료 제출 안내")
+    - [실시간 소득파악 제도 안내](/nts/cm/cntnts/cntntsView.do?mi=40347&cntntsId=238923 "실시간 소득파악 제도 안내")
+    - [소득자료별 제출안내](/nts/cm/cntnts/cntntsView.do?mi=40348&cntntsId=238924 "소득자료별 제출안내")
+    - [소득자료별 제출방법 및 유의사항](/nts/cm/cntnts/cntntsView.do?mi=40990&cntntsId=239045 "소득자료별 제출방법 및 유의사항")
+    - [주요서식](/nts/na/ntt/selectNttList.do?mi=40313&bbsId=50712 "주요서식")
+    - [참고자료실](/nts/na/ntt/selectNttList.do?mi=40312&bbsId=50713 "참고자료실")
+    - [동영상자료실](/nts/na/ntt/selectNttList.do?mi=40314&bbsId=50714 "동영상자료실")
+
+[... middle omitted — see footer ...]
+
+  + *(간편장부대상자) 신규 창업자*나 *직전연도 수입금액*이 아래의 *일정금액 미만*인 경우로 *수입·지출을 일자별 기록*하면 *장부로 인정*받을 수 있는 *사업자*
+  + *(복식부기의무자)* 간편장부 대상자 이외의 모든사업자는 *재산상태와 손익거래 내용*의 변동을 빠짐없이 거래시 마다 *차변과 대변*으로 나누어 기록한 장부를 기록·보관하여야 하며, 이를 기초로 작성된 *재무제표를 신고서*와 함께 제출하여야 합니다.
+
+    장부 기장의무와 추계신고시 경비율 적용 : 업종명, 기장 의무에 따른 구분(복식부기의무자,간편장부의무자), 추계 신고 시 경비율 적용(기준경비율 적용, 단순경비율 적용) 정보
+
+           | 업 종 명 | 기장 의무에 따른 구분 | 추계 신고 시 경비율 적용 |
+    | 복식부기의무자 | 간편장부의무자 | 기준경비율 적용 | 단순경비율 적용 |
+    | 공유숙박(숙박업) | 1억5천만원 이상 | 1억5천만원 미만 | 3천6백만원 이상 | 3천6백만원 미만 |
+
+    직전연도 업종별 수입금액 기준으로 판단
+
+    해당연도 수입금액이 복식부기의무자의 수입금액 판단기준이 되는 수입금액 이상인 경우에는 단순경비율 적용 제외
+
+#### 세액계산 방법
+
+* 소득금액의 계산
+  + *장부를 기록·비치*한 사업자는 *총수입금액에서 필요경비를 공제*하여 계산합니다.
+
+    *소득금액 = 총수입금액 - 필요경비*
+  + *장부를 기록·비치하지 않은 사업자*는 정부가 정해준 *경비율*에 따라 다음과 같이 계산합니다.
+
+    *기준경비율 적용 소득금액 = 수입금액 - 주요경비 - (수입금액×기준경비율)*  
+     *단순경비율 적용 소득금액 = 수입금액 - (수입금액×단순경비율)*
+
+    기준경비율이 적용되는 사업자의 경우 주요경비는 증빙에 의하여 지출이 확인되는 금액, 그 외의 경비는 정부가 정한 기준경비율로 필요경비를 인정하여 ①, ② 중 적은 금액으로 선택할 수 있습니다.
+
+    1. 1소득금액 = 수입금액 - 주요경비\* - (수입금액 × 기준경비율)
+
+       주요경비 = 매입비용 + 임차료 + 인건비
+    2. 2소득금액 = {수입금액 - (수입금액 × 단순경비율) } × 배율\*
+
+       2023년 귀속 배율 : 간편장부대상자 2.8배, 복식부기의무자 3.4배
+* 종합소득세 산출세액의 계산
+  + 종합소득세 산출세액은 다음과 같이 계산합니다.
+
+    *종합소득세 산출세액 = (과세표준 × 세율) - 누진공제*
+
+  예시 1 단순경비율 적용 계산 사례(’23년 귀속 기준)
+
+  + 공유숙박 수입금액이 年 2,400만원인 경우
+    - 소득금액 : 2,400만원 - (2,400만원 × 84.6%\*) ≒ 369만원
+
+      \* 공유숙박업(551007) ’23년 귀속 단순경비율 84.6%
+    - 과세표준 : 369만원 – 150만원(인적공제, 본인 1명) = 219만원
+    - 산출세액 : 219만원 × 6% ≒ 13만원
+    - 결정세액 : 13만원 – 7만원(표준세액공제) = 6만원
+
+  예시 2 기준경비율 적용 계산 사례(’23년 귀속 기준)
+
+  + 공유숙박 수입금액이 年 7,000만원 있고, 주요경비가 2,000만원 있는 경우
+    - 소득금액[① 또는 ②중에서 적은 금액] = 3,018만원
+      1. 1 7,000만원 – 2,000만원 – (7,000만원 × 17.3%\*) = 3,789만원
+      2. 2[7,000만원 – (7,000만원 × 84.6%\*)] × 2.8%\*\*(배율) = 3,018만원
+
+         \* 공유숙박업(551007) ’23년 귀속 기준경비율 17.3%, 단순경비율 84.6%
+
+         \*\* ’23년 귀속의 경우 간편장부대상자 2.8배, 복식부기의무자 3.4배
+    - 과세표준 : 3,018만원 – 150만원(인적공제, 본인 1명) = 2,868만원
+    - 산출세액 : 2,868만원 × 15% – 126만원(누진공제) = 304만원
+    - 결정세액 : 304만원 - 7만원(표준세액공제) = 297만원
+
+### 종합소득세 세액계산 특례
+
+* 통신판매중개를 하는 자를 통하여 장소를 대여하고 연 5백만원이하의 사용료를 받는 경우 기타소득으로 분리 과세합니다. (소득세법 제 21조 1항 8의2호)
+
+예시 기타소득 적용 계산 사례
+
+* 공유숙박 수입금액이 年 450만원만 있는 경우
+  + 소득금액 : 450만원 - (450만원 × 60%\*) = 180만원
+
+    \* 기타소득의 경우 60% 경비율 인정
+  + 과세표준 : 180만원 - 150만원(인적공제, 본인 1명) = 30만원
+  + 산출세액 : 30만원 × 6% ≒ 2만원
+  + 결정세액 : 2만원 - 7만원(표준세액공제) ⇒ *0원*
+
+### 콘텐츠 만족도 조사
+
+페이지에서 제공하는 정보에 대하여 만족하셨습니까?
+
+## [바로가기](#quickWrap)
+
+* [홈택스](https://www.hometax.go.kr "홈택스 바로가기(새창)")
+* [국세청 유튜브](https://www.youtube.com/@ntskorea "국세청 유튜브 바로가기(새창)")
+* [국세상담센터](https://call.nts.go.kr/call/main.do "국세상담센터 바로가기(새창)")
+* [국세법령정보시스템](https://taxlaw.nts.go.kr "국세법령정보시스템 바로가기(새창)")
+* [국립조세박물관](https://www.nts.go.kr/museum/main.do "국립조세박물관 바로가기(새창)")
+* [국세통계포털](https://tasis.nts.go.kr "국세통계포털 바로가기(새창)")
+* [국세환급금 찾기](https://www.hometax.go.kr/websquare/websquare.html?w2xPath=/ui/pp/index_pp.xml&tmIdx=42&tm2lIdx=4203000000&tm3lIdx=4203010000 "국세환급금 찾기 바로가기(새창)")
+* [납세자권익24](https://www.nts.go.kr/taxpayer_advocate/main.do "납세자권익24 바로가기(새창)")
+* [세무서식](https://www.nts.go.kr/nts/ad/nf/nltFormatApiList.do?mi=40178 "세무서식 바로가기(새창)")
+* [어린이 국세청](https://kids.nts.go.kr/kid/main.do "어린이 국세청 바로가기(새창)")
+* [취업후 학자금상환](http://www.icl.go.kr "취업후 학자금상환 바로가기(새창)")
+* [탈세제보](https://www.hometax.go.kr/websquare/websquare.html?w2xPath=/ui/pp/index_pp.xml&tmIdx=47&tm2lIdx=4710000000&tm3lIdx=4710010000 "탈세제보 바로가기(새창)")
+* [부동산 탈세 신고센터](https://www.hometax.go.kr/websquare/websquare.html?w2xPath=/ui/pp/index_pp.xml&tmIdx=47&tm2lIdx=4710000000&tm3lIdx=4710090000 "부동산 탈세 신고센터 바로가기(새창)")
+* [국세공무원교육원](https://i.nts.go.kr/taxstudy/main.do "국세공무원교육원바로가기(새창)")
+* [주류면허지원센터](https://i.nts.go.kr/llsc/main.do "주류면허지원센터 바로가기(새창)")
+* [K-SUUL 포털](https://i.nts.go.kr/ksuul/main.do "K-SUUL 포털 바로가기(새창)")
+* [글로벌최저한세 포털](https://www.nts.go.kr/gmt/main.do "글로벌최저한세 포털 바로가기(새창)")
+* [지방청·세무서](/nts/taxSrch/taxSrchPage.do?mi=6761 "지방청·세무서 페이지 바로가기")
+* [납세자세법교실](https://taxstudy.nts.go.kr/taxedu/main.do "납세자세법교실 바로가기(새창)")
+
+──────── [TRUNCATED] ────────
+Showing 11,958 chars (head) + 3,974 chars (tail) of 74,496 total clean characters.
+Full text saved to: /home/ainsdev/.hermes/cache/web/www.nts.go.kr-3bde62d09d.md
+To read the omitted middle: read_file path="/home/ainsdev/.hermes/cache/web/www.nts.go.kr-3bde62d09d.md" offset=164 limit=200  (the file is the complete page; raise/lower offset to page through it).
+─────────────────────────────
