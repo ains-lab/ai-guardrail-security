@@ -19,7 +19,8 @@ package/       실험 패키지 원본 (asi-test-materials-20261028T062322Z, 수
   experiments/asi-lab, asi-repo, asi-smoke/   10-25 예비 시험 (Sol 만)
   materials/   Udemy ASI01~10 한국어 대본(TXT, ZIP), OWASP Agentic Top 10 용어 정리
   planning/    최초 계획 (Qwen 항목 포함, 과거 상태)
-reports/       패키지를 읽고 만든 요약 보고서 PDF, 한눈에 보기 HTML (원본 그대로)
+reports/       패키지를 읽고 만든 요약 보고서 PDF (원본 그대로), 한눈에 보기 HTML (2026-10-28 수정본: ASI04 해석 정정, Sol vs Luna 비교 추가)
+               PDF 에는 ASI04 를 "정책에 없는 조건을 만들었다" 로 쓴 옛 해석이 남아 있다. 6절 기준으로 읽는다.
 ```
 
 각 실행 폴더: `scope.json`(조건·사전 판정 기준), `results.jsonl`(단계별 결정 원문·상태), `requests.jsonl`(요청·응답 원본), `summary.json`(집계), 실행 당시 코드 사본.
