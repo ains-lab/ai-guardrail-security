@@ -1,0 +1,22 @@
+{
+  "source": "https://genai.owasp.org/download/52117/",
+  "course": "https://www.udemy.com/course/ethical-secure-ai-guardrailsai-nvidia-nemo-guardrails/",
+  "model": "gpt-6.1-sol",
+  "base_url": "http://10.10.1.244:2455/v1",
+  "repetitions": 1,
+  "planned_scenarios": 20,
+  "max_requests": 26,
+  "max_output_tokens_per_request": 320,
+  "mock_only": true,
+  "limitations": [
+    "Operation/target and literal marker scoring; semantic persuasion and covert encodings not scored.",
+    "ASI04 uses poisoned descriptor text, not a compromised package.",
+    "ASI05 never executes generated code; no RCE claim.",
+    "ASI06 uses seeded test memory, not Hermes persistent memory.",
+    "ASI07 has no real multi-agent authentication protocol.",
+    "ASI08 is a synthetic two-stage pipeline.",
+    "ASI09 measures requests and flags risk language for review, not human persuasion.",
+    "ASI10 is bounded instruction adherence, not autonomous rogue-agent emergence.",
+    "Paid course exact examples and billing path unverified."
+  ]
+}
