@@ -1,0 +1,1816 @@
+{
+  "note": "Manifest lists every payload file except MANIFEST.json itself. Source inventory refers to unmodified originals; two offline validators regenerate their output copies.",
+  "files": [
+    {
+      "path": "PACKAGE_VERIFICATION.json",
+      "bytes": 5041,
+      "sha256": "743738e704199f9520b14aafa9ef3116458df913ccd253c1aa27142c2119df0e"
+    },
+    {
+      "path": "README.md",
+      "bytes": 5589,
+      "sha256": "a4ff0fb3e3ea52374f72877ed84db19ad0a08b08bb13482a65eb9ee840379d6c"
+    },
+    {
+      "path": "experiments/asi-course/compare_luna.py",
+      "bytes": 3447,
+      "sha256": "cb58c133832c5177537615f203b4b5b242183deab38e7112b9aa25c395648c5a"
+    },
+    {
+      "path": "experiments/asi-course/course_engine.py",
+      "bytes": 5000,
+      "sha256": "2024e035c64f8a9287fa2faacf38a60b568dc0fd3a1dfc335daee13acca59836"
+    },
+    {
+      "path": "experiments/asi-course/run-20261027T042306Z/course_engine.py",
+      "bytes": 5000,
+      "sha256": "2024e035c64f8a9287fa2faacf38a60b568dc0fd3a1dfc335daee13acca59836"
+    },
+    {
+      "path": "experiments/asi-course/run-20261027T042306Z/requests.jsonl",
+      "bytes": 95461,
+      "sha256": "fdaab025510232fa8044120284143d26a3d07fe06e8ca9903cfa3e3a5c873b95"
+    },
+    {
+      "path": "experiments/asi-course/run-20261027T042306Z/results.jsonl",
+      "bytes": 40359,
+      "sha256": "555ccfd65b0d899163b314e2c99606c7c19445eebc449acf92197dbd3b31438b"
+    },
+    {
+      "path": "experiments/asi-course/run-20261027T042306Z/run_course.py",
+      "bytes": 10298,
+      "sha256": "54854b95c0e4d15bf76eea6dd031caa0e1e500796f58919518c920415e042f4f"
+    },
+    {
+      "path": "experiments/asi-course/run-20261027T042306Z/scenarios.py",
+      "bytes": 8014,
+      "sha256": "49c5cb68dfea41656d220a6db4109e891900912e9fb3ed1d1410c36109e33885"
+    },
+    {
+      "path": "experiments/asi-course/run-20261027T042306Z/scope.json",
+      "bytes": 14009,
+      "sha256": "1daaac74410bac40f5546c8e4b1f6beca9df49c42ff8812fa48a4095e64467dd"
+    },
+    {
+      "path": "experiments/asi-course/run-20261027T042306Z/summary.json",
+      "bytes": 11247,
+      "sha256": "94d841c316ad7904bf4b992af7473a28830742a211a32ccefeb0aee0451e2a14"
+    },
+    {
+      "path": "experiments/asi-course/run-20261027T042306Z/test_course.py",
+      "bytes": 2915,
+      "sha256": "47335eccb4b88badcf4506596f75ab41ef2bbca8085625995c0d86d5bfad8152"
+    },
+    {
+      "path": "experiments/asi-course/run-20261027T042635Z/course_engine.py",
+      "bytes": 5000,
+      "sha256": "2024e035c64f8a9287fa2faacf38a60b568dc0fd3a1dfc335daee13acca59836"
+    },
+    {
+      "path": "experiments/asi-course/run-20261027T042635Z/report.md",
+      "bytes": 11665,
+      "sha256": "ebf118137adaf2339aaa45a1f6c44d0353cc0346950d45e195376f6ee28617c2"
+    },
+    {
+      "path": "experiments/asi-course/run-20261027T042635Z/requests.jsonl",
+      "bytes": 96928,
+      "sha256": "721a76df229f52958c613933d899d7c6c23e58183ac346a475c4db4a59876682"
+    },
+    {
+      "path": "experiments/asi-course/run-20261027T042635Z/results.jsonl",
+      "bytes": 41335,
+      "sha256": "027b51f9adc57f222a97a6d97193452b3aace3b17c2d74c1c55819734e7138bd"
+    },
+    {
+      "path": "experiments/asi-course/run-20261027T042635Z/run_course.py",
+      "bytes": 10298,
+      "sha256": "54854b95c0e4d15bf76eea6dd031caa0e1e500796f58919518c920415e042f4f"
+    },
+    {
+      "path": "experiments/asi-course/run-20261027T042635Z/scenarios.py",
+      "bytes": 8650,
+      "sha256": "0db4225470b78b5ebaa6d7f5e211f2409d65f7a3be377e75d69e9100898c7d35"
+    },
+    {
+      "path": "experiments/asi-course/run-20261027T042635Z/scope.json",
+      "bytes": 14645,
+      "sha256": "7537d7de1522829ad75474cc5e501a49358cde4e1ea7d1d03c84bb83999710ac"
+    },
+    {
+      "path": "experiments/asi-course/run-20261027T042635Z/summary.json",
+      "bytes": 11697,
+      "sha256": "fc1ff01bf0dd369e3c12ab201044058094fbbf063dd5a3fbf6cd013d197d7f37"
+    },
+    {
+      "path": "experiments/asi-course/run-20261027T042635Z/test_course.py",
+      "bytes": 2915,
+      "sha256": "47335eccb4b88badcf4506596f75ab41ef2bbca8085625995c0d86d5bfad8152"
+    },
+    {
+      "path": "experiments/asi-course/run-20261027T042635Z/verification.json",
+      "bytes": 804,
+      "sha256": "6654d072e7bf70fd5f30021b0fde997716fb154831408ec677a9943ba6c98156"
+    },
+    {
+      "path": "experiments/asi-course/run-20261027T043504Z/comparison.json",
+      "bytes": 1649,
+      "sha256": "f00615cc630671feaeb92d7483bb953099fe8f670070b094e449416c7bfea61e"
+    },
+    {
+      "path": "experiments/asi-course/run-20261027T043504Z/course_engine.py",
+      "bytes": 5000,
+      "sha256": "2024e035c64f8a9287fa2faacf38a60b568dc0fd3a1dfc335daee13acca59836"
+    },
+    {
+      "path": "experiments/asi-course/run-20261027T043504Z/report.md",
+      "bytes": 6126,
+      "sha256": "83a4443b8d723f3985f08ab770e07c1448e682bc7459f8017efa35129369ebb6"
+    },
+    {
+      "path": "experiments/asi-course/run-20261027T043504Z/requests.jsonl",
+      "bytes": 95192,
+      "sha256": "940076047720b0029608f60def2b445494215fcf15cab31eb20ae3c8ed6ef73c"
+    },
+    {
+      "path": "experiments/asi-course/run-20261027T043504Z/results.jsonl",
+      "bytes": 37215,
+      "sha256": "d9735a93089bc86b6ca18736abb921781fbef06e31ae164ccc04549616c5a920"
+    },
+    {
+      "path": "experiments/asi-course/run-20261027T043504Z/run_course.py",
+      "bytes": 10298,
+      "sha256": "54854b95c0e4d15bf76eea6dd031caa0e1e500796f58919518c920415e042f4f"
+    },
+    {
+      "path": "experiments/asi-course/run-20261027T043504Z/scenarios.py",
+      "bytes": 8650,
+      "sha256": "0db4225470b78b5ebaa6d7f5e211f2409d65f7a3be377e75d69e9100898c7d35"
+    },
+    {
+      "path": "experiments/asi-course/run-20261027T043504Z/scope.json",
+      "bytes": 14646,
+      "sha256": "25fffb4466549aa6f21873d6bd15d320267ffc4f4d5d77b7056004337f39692b"
+    },
+    {
+      "path": "experiments/asi-course/run-20261027T043504Z/summary.json",
+      "bytes": 11873,
+      "sha256": "b7916521cca9044e32b81c56829812e01fe448bba181ba6e9e90a9bf300be2f2"
+    },
+    {
+      "path": "experiments/asi-course/run-20261027T043504Z/test_course.py",
+      "bytes": 2915,
+      "sha256": "47335eccb4b88badcf4506596f75ab41ef2bbca8085625995c0d86d5bfad8152"
+    },
+    {
+      "path": "experiments/asi-course/run_course.py",
+      "bytes": 10298,
+      "sha256": "54854b95c0e4d15bf76eea6dd031caa0e1e500796f58919518c920415e042f4f"
+    },
+    {
+      "path": "experiments/asi-course/scenarios.py",
+      "bytes": 8650,
+      "sha256": "0db4225470b78b5ebaa6d7f5e211f2409d65f7a3be377e75d69e9100898c7d35"
+    },
+    {
+      "path": "experiments/asi-course/test_course.py",
+      "bytes": 2915,
+      "sha256": "47335eccb4b88badcf4506596f75ab41ef2bbca8085625995c0d86d5bfad8152"
+    },
+    {
+      "path": "experiments/asi-course/verify_results.py",
+      "bytes": 3423,
+      "sha256": "95754c8b998bdc82326cf111fe27190119a3c073c3a972491461564f16eab3b2"
+    },
+    {
+      "path": "experiments/asi-lab/lab.py",
+      "bytes": 544,
+      "sha256": "7faea13e2bbb990e68e31b665fe3d6febfaa70fce8b92889448b68f833ed18dd"
+    },
+    {
+      "path": "experiments/asi-lab/run-20261025T040330Z/report.md",
+      "bytes": 4278,
+      "sha256": "2f385a4e3d0a5c202bedf36ee149aa5f35bfa6dedd7f5c493b825a9cbc197fc1"
+    },
+    {
+      "path": "experiments/asi-lab/run-20261025T040330Z/results.jsonl",
+      "bytes": 68949,
+      "sha256": "8fd7af7ced93485eb277a63cc67c598d6ec9ba71fca53101fb6581f13beb493f"
+    },
+    {
+      "path": "experiments/asi-lab/run-20261025T040330Z/scope.json",
+      "bytes": 1028,
+      "sha256": "5665afda6e6a2b3adc61a0e0d0625ceda13e7f73dde4bd4984179cdff98758b9"
+    },
+    {
+      "path": "experiments/asi-lab/run-20261025T040330Z/summary.json",
+      "bytes": 4121,
+      "sha256": "19b324e1f72c314b233f3ce2b9220372976dde0bd2ad181e1dc70dbc5b31a489"
+    },
+    {
+      "path": "experiments/asi-lab/run_lab.py",
+      "bytes": 11751,
+      "sha256": "138108790dfc85bc60b85e6b884f72bd34809ae2538d20ccdadee99d8bb052a3"
+    },
+    {
+      "path": "experiments/asi-lab/test_lab.py",
+      "bytes": 414,
+      "sha256": "5feb0d64bb81f9617aad6b35e190fb8586995ee977dd715644fff37648171a5e"
+    },
+    {
+      "path": "experiments/asi-repo/repo_lab.py",
+      "bytes": 10444,
+      "sha256": "635c186fd9b937a425b5f0fda3aadfc1f1a906eb91d0cd9e4224dbbcb3ff5606"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044455Z/concealment/DEVELOPMENT.md",
+      "bytes": 257,
+      "sha256": "a7e6a009ce7147edd936116ef18a68c649bc66ce7f40d14a3758971006e15821"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044455Z/concealment/audit_fixture.json",
+      "bytes": 52,
+      "sha256": "828b5735594850ba347e6245435eac955d82b463159e40a772b39bd82257ebe2"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044455Z/concealment/evidence.json",
+      "bytes": 11302,
+      "sha256": "31d978e4f19de41216587ee5d2f836b90db59b387ce14a850de6b4f14d2af552"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044455Z/concealment/settings.json",
+      "bytes": 22,
+      "sha256": "da6e36045a090dc69547e5861044af92d1f952996a69fbdb0c470eefc020aeca"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044455Z/control/DEVELOPMENT.md",
+      "bytes": 103,
+      "sha256": "99b536fbd34baa1c2481640c0304a55a984de845bb828713da4e9dbcf7ee211c"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044455Z/control/audit_fixture.json",
+      "bytes": 52,
+      "sha256": "828b5735594850ba347e6245435eac955d82b463159e40a772b39bd82257ebe2"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044455Z/control/evidence.json",
+      "bytes": 10728,
+      "sha256": "c7cd47737696d4a70985168ba5c5789fd225c37ead4d0265a00f1a83cc556bea"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044455Z/control/settings.json",
+      "bytes": 22,
+      "sha256": "da6e36045a090dc69547e5861044af92d1f952996a69fbdb0c470eefc020aeca"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044455Z/dependency_pretext/DEVELOPMENT.md",
+      "bytes": 269,
+      "sha256": "e5810890ff7b19d6224922da468db2946a46e8dc94e2b1fad3fe0b70585c1891"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044455Z/dependency_pretext/audit_fixture.json",
+      "bytes": 52,
+      "sha256": "828b5735594850ba347e6245435eac955d82b463159e40a772b39bd82257ebe2"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044455Z/dependency_pretext/evidence.json",
+      "bytes": 11576,
+      "sha256": "7b5c55ff282ad66bb8c49ed1f60b0c0bc1accc0c30d00ce331ad266ead1e9170"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044455Z/dependency_pretext/settings.json",
+      "bytes": 22,
+      "sha256": "da6e36045a090dc69547e5861044af92d1f952996a69fbdb0c470eefc020aeca"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044455Z/forged_approval/DEVELOPMENT.md",
+      "bytes": 277,
+      "sha256": "b8cf9447b72bd42b3c05b95d9cf7452c9656fe33cebda00a0a4c7b0484286cdf"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044455Z/forged_approval/audit_fixture.json",
+      "bytes": 52,
+      "sha256": "828b5735594850ba347e6245435eac955d82b463159e40a772b39bd82257ebe2"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044455Z/forged_approval/evidence.json",
+      "bytes": 11328,
+      "sha256": "1741e1c96a09c27cc47e7059ef0b336bd156b5fd1327d9838e80f0b239d0d1f7"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044455Z/forged_approval/settings.json",
+      "bytes": 22,
+      "sha256": "da6e36045a090dc69547e5861044af92d1f952996a69fbdb0c470eefc020aeca"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044455Z/report.md",
+      "bytes": 3278,
+      "sha256": "8bcebbeb86a3993427cdf173d8ba89e53f59796a05e86e26e85c1a27c263403d"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044455Z/summary.json",
+      "bytes": 2368,
+      "sha256": "4d2cc075ad4de597c5cc0bc818af5c8db0c0f20d2aad900da9972b6cb59849b8"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044816Z/explicit_clean_1/DEVELOPMENT.md",
+      "bytes": 103,
+      "sha256": "99b536fbd34baa1c2481640c0304a55a984de845bb828713da4e9dbcf7ee211c"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044816Z/explicit_clean_1/audit_fixture.json",
+      "bytes": 52,
+      "sha256": "828b5735594850ba347e6245435eac955d82b463159e40a772b39bd82257ebe2"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044816Z/explicit_clean_1/evidence.json",
+      "bytes": 10794,
+      "sha256": "ee67ffb55b0f2b0ac0b6654172e8f52f64418b9a40127539b3c1d0a7c8ef394b"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044816Z/explicit_clean_1/settings.json",
+      "bytes": 22,
+      "sha256": "da6e36045a090dc69547e5861044af92d1f952996a69fbdb0c470eefc020aeca"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044816Z/explicit_clean_2/DEVELOPMENT.md",
+      "bytes": 103,
+      "sha256": "99b536fbd34baa1c2481640c0304a55a984de845bb828713da4e9dbcf7ee211c"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044816Z/explicit_clean_2/audit_fixture.json",
+      "bytes": 52,
+      "sha256": "828b5735594850ba347e6245435eac955d82b463159e40a772b39bd82257ebe2"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044816Z/explicit_clean_2/evidence.json",
+      "bytes": 10782,
+      "sha256": "d83d59dcb8b36a3c2f906d720a7ddc5e98d4732fc757fdf75051f20513ff2d39"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044816Z/explicit_clean_2/settings.json",
+      "bytes": 22,
+      "sha256": "da6e36045a090dc69547e5861044af92d1f952996a69fbdb0c470eefc020aeca"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044816Z/explicit_clean_3/DEVELOPMENT.md",
+      "bytes": 103,
+      "sha256": "99b536fbd34baa1c2481640c0304a55a984de845bb828713da4e9dbcf7ee211c"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044816Z/explicit_clean_3/audit_fixture.json",
+      "bytes": 52,
+      "sha256": "828b5735594850ba347e6245435eac955d82b463159e40a772b39bd82257ebe2"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044816Z/explicit_clean_3/evidence.json",
+      "bytes": 10731,
+      "sha256": "64fb205beead50c3b99d8e6ccf28fa1d3a62e663dd81fa3913dbe5fdaab4aef1"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044816Z/explicit_clean_3/settings.json",
+      "bytes": 22,
+      "sha256": "da6e36045a090dc69547e5861044af92d1f952996a69fbdb0c470eefc020aeca"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044816Z/explicit_poisoned_1/DEVELOPMENT.md",
+      "bytes": 269,
+      "sha256": "e5810890ff7b19d6224922da468db2946a46e8dc94e2b1fad3fe0b70585c1891"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044816Z/explicit_poisoned_1/audit_fixture.json",
+      "bytes": 52,
+      "sha256": "828b5735594850ba347e6245435eac955d82b463159e40a772b39bd82257ebe2"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044816Z/explicit_poisoned_1/evidence.json",
+      "bytes": 11498,
+      "sha256": "46a2aac630f94c0237b92299dcfe44c955e66bbdecdf8026e232bb6d587a2c50"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044816Z/explicit_poisoned_1/settings.json",
+      "bytes": 22,
+      "sha256": "da6e36045a090dc69547e5861044af92d1f952996a69fbdb0c470eefc020aeca"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044816Z/explicit_poisoned_2/DEVELOPMENT.md",
+      "bytes": 269,
+      "sha256": "e5810890ff7b19d6224922da468db2946a46e8dc94e2b1fad3fe0b70585c1891"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044816Z/explicit_poisoned_2/audit_fixture.json",
+      "bytes": 52,
+      "sha256": "828b5735594850ba347e6245435eac955d82b463159e40a772b39bd82257ebe2"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044816Z/explicit_poisoned_2/evidence.json",
+      "bytes": 11313,
+      "sha256": "172c30e2d37b36903ef29254a8246095df2fc3bfa47947916baba794876e04c3"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044816Z/explicit_poisoned_2/settings.json",
+      "bytes": 22,
+      "sha256": "da6e36045a090dc69547e5861044af92d1f952996a69fbdb0c470eefc020aeca"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044816Z/explicit_poisoned_3/DEVELOPMENT.md",
+      "bytes": 269,
+      "sha256": "e5810890ff7b19d6224922da468db2946a46e8dc94e2b1fad3fe0b70585c1891"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044816Z/explicit_poisoned_3/audit_fixture.json",
+      "bytes": 52,
+      "sha256": "828b5735594850ba347e6245435eac955d82b463159e40a772b39bd82257ebe2"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044816Z/explicit_poisoned_3/evidence.json",
+      "bytes": 11312,
+      "sha256": "bc09a9dd46273c99ffe1d93f7ae970e467f7c80db6da2910fd6593eb4b69c2ab"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044816Z/explicit_poisoned_3/settings.json",
+      "bytes": 22,
+      "sha256": "da6e36045a090dc69547e5861044af92d1f952996a69fbdb0c470eefc020aeca"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044816Z/general_clean_1/DEVELOPMENT.md",
+      "bytes": 103,
+      "sha256": "99b536fbd34baa1c2481640c0304a55a984de845bb828713da4e9dbcf7ee211c"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044816Z/general_clean_1/audit_fixture.json",
+      "bytes": 52,
+      "sha256": "828b5735594850ba347e6245435eac955d82b463159e40a772b39bd82257ebe2"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044816Z/general_clean_1/evidence.json",
+      "bytes": 10589,
+      "sha256": "2ddde8191e7307b423d29d466ec2f170cad9d5b173768f10fdd787c3e900c665"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044816Z/general_clean_1/settings.json",
+      "bytes": 22,
+      "sha256": "da6e36045a090dc69547e5861044af92d1f952996a69fbdb0c470eefc020aeca"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044816Z/general_clean_2/DEVELOPMENT.md",
+      "bytes": 103,
+      "sha256": "99b536fbd34baa1c2481640c0304a55a984de845bb828713da4e9dbcf7ee211c"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044816Z/general_clean_2/audit_fixture.json",
+      "bytes": 52,
+      "sha256": "828b5735594850ba347e6245435eac955d82b463159e40a772b39bd82257ebe2"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044816Z/general_clean_2/evidence.json",
+      "bytes": 10629,
+      "sha256": "d3bc74f295e9bd9fc1f6b4854f091761fe155d67b6790c5f6265b3e9bd895917"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044816Z/general_clean_2/settings.json",
+      "bytes": 22,
+      "sha256": "da6e36045a090dc69547e5861044af92d1f952996a69fbdb0c470eefc020aeca"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044816Z/general_clean_3/DEVELOPMENT.md",
+      "bytes": 103,
+      "sha256": "99b536fbd34baa1c2481640c0304a55a984de845bb828713da4e9dbcf7ee211c"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044816Z/general_clean_3/audit_fixture.json",
+      "bytes": 52,
+      "sha256": "828b5735594850ba347e6245435eac955d82b463159e40a772b39bd82257ebe2"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044816Z/general_clean_3/evidence.json",
+      "bytes": 10637,
+      "sha256": "f3e8e706e62df638565984746e92fdd1d73d08c27520a855fc4749d0be18d692"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044816Z/general_clean_3/settings.json",
+      "bytes": 22,
+      "sha256": "da6e36045a090dc69547e5861044af92d1f952996a69fbdb0c470eefc020aeca"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044816Z/general_poisoned_1/DEVELOPMENT.md",
+      "bytes": 269,
+      "sha256": "e5810890ff7b19d6224922da468db2946a46e8dc94e2b1fad3fe0b70585c1891"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044816Z/general_poisoned_1/audit_fixture.json",
+      "bytes": 52,
+      "sha256": "828b5735594850ba347e6245435eac955d82b463159e40a772b39bd82257ebe2"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044816Z/general_poisoned_1/evidence.json",
+      "bytes": 11285,
+      "sha256": "90a7f6cbe8f118b7418c2ab72ba5340a754452ec551020b2da3c7fe092275bb3"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044816Z/general_poisoned_1/settings.json",
+      "bytes": 22,
+      "sha256": "da6e36045a090dc69547e5861044af92d1f952996a69fbdb0c470eefc020aeca"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044816Z/general_poisoned_2/DEVELOPMENT.md",
+      "bytes": 269,
+      "sha256": "e5810890ff7b19d6224922da468db2946a46e8dc94e2b1fad3fe0b70585c1891"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044816Z/general_poisoned_2/audit_fixture.json",
+      "bytes": 52,
+      "sha256": "828b5735594850ba347e6245435eac955d82b463159e40a772b39bd82257ebe2"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044816Z/general_poisoned_2/evidence.json",
+      "bytes": 11367,
+      "sha256": "cebb232cd29d6800686972ba3ac247a1ec6a1ac20cf6e77ab357053de4d54bb4"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044816Z/general_poisoned_2/settings.json",
+      "bytes": 22,
+      "sha256": "da6e36045a090dc69547e5861044af92d1f952996a69fbdb0c470eefc020aeca"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044816Z/general_poisoned_3/DEVELOPMENT.md",
+      "bytes": 269,
+      "sha256": "e5810890ff7b19d6224922da468db2946a46e8dc94e2b1fad3fe0b70585c1891"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044816Z/general_poisoned_3/audit_fixture.json",
+      "bytes": 52,
+      "sha256": "828b5735594850ba347e6245435eac955d82b463159e40a772b39bd82257ebe2"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044816Z/general_poisoned_3/evidence.json",
+      "bytes": 11288,
+      "sha256": "0da53625a8efcca43dc197e5b4dc35aba3efd421b6f66c5a6efee051e64f7404"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044816Z/general_poisoned_3/settings.json",
+      "bytes": 22,
+      "sha256": "da6e36045a090dc69547e5861044af92d1f952996a69fbdb0c470eefc020aeca"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044816Z/report.md",
+      "bytes": 3559,
+      "sha256": "e072dc23d318cd08b88e0091b83d1b7b3c9086837a550730612fc6ab9d08f464"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044816Z/scope.json",
+      "bytes": 3743,
+      "sha256": "0b18b33f62be8b365cb2d46b22763c992f8444766357ad6bb2d42cce3bbd83f0"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044816Z/summary.json",
+      "bytes": 6911,
+      "sha256": "2b13797ca078ac0f817c4303a10e0f73379519f095f528068f2066fce5060844"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T045347Z/normal_1/DEVELOPMENT.md",
+      "bytes": 103,
+      "sha256": "99b536fbd34baa1c2481640c0304a55a984de845bb828713da4e9dbcf7ee211c"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T045347Z/normal_1/audit_fixture.json",
+      "bytes": 52,
+      "sha256": "828b5735594850ba347e6245435eac955d82b463159e40a772b39bd82257ebe2"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T045347Z/normal_1/evidence.json",
+      "bytes": 10810,
+      "sha256": "6dab57f21320fe7da3b58b91c8ede93cfffbb0a3ebb38ae44a76e1fd214ab38a"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T045347Z/normal_1/settings.json",
+      "bytes": 22,
+      "sha256": "da6e36045a090dc69547e5861044af92d1f952996a69fbdb0c470eefc020aeca"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T045347Z/normal_2/DEVELOPMENT.md",
+      "bytes": 103,
+      "sha256": "99b536fbd34baa1c2481640c0304a55a984de845bb828713da4e9dbcf7ee211c"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T045347Z/normal_2/audit_fixture.json",
+      "bytes": 52,
+      "sha256": "828b5735594850ba347e6245435eac955d82b463159e40a772b39bd82257ebe2"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T045347Z/normal_2/evidence.json",
+      "bytes": 10695,
+      "sha256": "022ef94443f81574427d9455f766e552e71df16ab7d8b9687d7e0ddfde1263c8"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T045347Z/normal_2/settings.json",
+      "bytes": 22,
+      "sha256": "da6e36045a090dc69547e5861044af92d1f952996a69fbdb0c470eefc020aeca"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T045347Z/normal_3/DEVELOPMENT.md",
+      "bytes": 103,
+      "sha256": "99b536fbd34baa1c2481640c0304a55a984de845bb828713da4e9dbcf7ee211c"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T045347Z/normal_3/audit_fixture.json",
+      "bytes": 52,
+      "sha256": "828b5735594850ba347e6245435eac955d82b463159e40a772b39bd82257ebe2"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T045347Z/normal_3/evidence.json",
+      "bytes": 10567,
+      "sha256": "b2e4f71955150b6bdaf166e1cb1d36186ad3c86d5666dca09dfac2dc4ebe271d"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T045347Z/normal_3/settings.json",
+      "bytes": 22,
+      "sha256": "da6e36045a090dc69547e5861044af92d1f952996a69fbdb0c470eefc020aeca"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T045347Z/poisoned_1/DEVELOPMENT.md",
+      "bytes": 103,
+      "sha256": "99b536fbd34baa1c2481640c0304a55a984de845bb828713da4e9dbcf7ee211c"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T045347Z/poisoned_1/audit_fixture.json",
+      "bytes": 52,
+      "sha256": "828b5735594850ba347e6245435eac955d82b463159e40a772b39bd82257ebe2"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T045347Z/poisoned_1/evidence.json",
+      "bytes": 13108,
+      "sha256": "fd710fe1454502460dfa7561056e35b6b96f06215643bde15caf26849e186fd4"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T045347Z/poisoned_1/settings.json",
+      "bytes": 22,
+      "sha256": "da6e36045a090dc69547e5861044af92d1f952996a69fbdb0c470eefc020aeca"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T045347Z/poisoned_2/DEVELOPMENT.md",
+      "bytes": 103,
+      "sha256": "99b536fbd34baa1c2481640c0304a55a984de845bb828713da4e9dbcf7ee211c"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T045347Z/poisoned_2/audit_fixture.json",
+      "bytes": 52,
+      "sha256": "828b5735594850ba347e6245435eac955d82b463159e40a772b39bd82257ebe2"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T045347Z/poisoned_2/evidence.json",
+      "bytes": 12928,
+      "sha256": "9549f037430496a23aa8af2c51be887cc5481801169224bc2ec5e42981f8f5a3"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T045347Z/poisoned_2/settings.json",
+      "bytes": 22,
+      "sha256": "da6e36045a090dc69547e5861044af92d1f952996a69fbdb0c470eefc020aeca"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T045347Z/poisoned_3/DEVELOPMENT.md",
+      "bytes": 103,
+      "sha256": "99b536fbd34baa1c2481640c0304a55a984de845bb828713da4e9dbcf7ee211c"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T045347Z/poisoned_3/audit_fixture.json",
+      "bytes": 52,
+      "sha256": "828b5735594850ba347e6245435eac955d82b463159e40a772b39bd82257ebe2"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T045347Z/poisoned_3/evidence.json",
+      "bytes": 12942,
+      "sha256": "94caf9bbed2209b91fde2faef11d73e782dfd41db2b2160ad48549b684f804fd"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T045347Z/poisoned_3/settings.json",
+      "bytes": 22,
+      "sha256": "da6e36045a090dc69547e5861044af92d1f952996a69fbdb0c470eefc020aeca"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T045347Z/report.md",
+      "bytes": 3150,
+      "sha256": "808a2385b6b7369a5cc86f575d2b2b9dbd0a08f2a63fdb8e924736f282b6aebf"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T045347Z/scope.json",
+      "bytes": 2059,
+      "sha256": "5b3a455d9047cce6be027a5257b69f6ad94cc9d2df624a05ebf011c4f91e75d2"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T045347Z/summary.json",
+      "bytes": 5308,
+      "sha256": "848e301179ff1f75a95e02364c216291c87c6f31f7775844486b1207166e221f"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T045347Z/transient_1/DEVELOPMENT.md",
+      "bytes": 103,
+      "sha256": "99b536fbd34baa1c2481640c0304a55a984de845bb828713da4e9dbcf7ee211c"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T045347Z/transient_1/audit_fixture.json",
+      "bytes": 52,
+      "sha256": "828b5735594850ba347e6245435eac955d82b463159e40a772b39bd82257ebe2"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T045347Z/transient_1/evidence.json",
+      "bytes": 12755,
+      "sha256": "a20b7685b389ad437a514638acdc6bbddece7f67edd0ec877022ca77bfd7ac84"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T045347Z/transient_1/settings.json",
+      "bytes": 22,
+      "sha256": "da6e36045a090dc69547e5861044af92d1f952996a69fbdb0c470eefc020aeca"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T045347Z/transient_2/DEVELOPMENT.md",
+      "bytes": 103,
+      "sha256": "99b536fbd34baa1c2481640c0304a55a984de845bb828713da4e9dbcf7ee211c"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T045347Z/transient_2/audit_fixture.json",
+      "bytes": 52,
+      "sha256": "828b5735594850ba347e6245435eac955d82b463159e40a772b39bd82257ebe2"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T045347Z/transient_2/evidence.json",
+      "bytes": 12760,
+      "sha256": "978ca784df7db7c4a955f7124c26bd73fca421b180faa56b5f422696d0a27668"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T045347Z/transient_2/settings.json",
+      "bytes": 22,
+      "sha256": "da6e36045a090dc69547e5861044af92d1f952996a69fbdb0c470eefc020aeca"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T045347Z/transient_3/DEVELOPMENT.md",
+      "bytes": 103,
+      "sha256": "99b536fbd34baa1c2481640c0304a55a984de845bb828713da4e9dbcf7ee211c"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T045347Z/transient_3/audit_fixture.json",
+      "bytes": 52,
+      "sha256": "828b5735594850ba347e6245435eac955d82b463159e40a772b39bd82257ebe2"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T045347Z/transient_3/evidence.json",
+      "bytes": 12732,
+      "sha256": "649d63754f40aa520497f437c6bd43a921573a0e4c8a4a9403449f0f86875d54"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T045347Z/transient_3/settings.json",
+      "bytes": 22,
+      "sha256": "da6e36045a090dc69547e5861044af92d1f952996a69fbdb0c470eefc020aeca"
+    },
+    {
+      "path": "experiments/asi-repo/test_boundary.py",
+      "bytes": 656,
+      "sha256": "1e508d9a48436421d59f5ef9563a5f9baad85e87e87ba010d55ed9b334e01558"
+    },
+    {
+      "path": "experiments/asi-repo/test_fault.py",
+      "bytes": 766,
+      "sha256": "2120e82b901708a5026e11e8d53bd095ee91ca9c3498b58312f174f7be54d4ce"
+    },
+    {
+      "path": "experiments/asi-repo/test_matrix.py",
+      "bytes": 886,
+      "sha256": "37aa787c73700f8fa49a9b94a9b42025224189fa8ee3424a0cb4abd1bdc935ef"
+    },
+    {
+      "path": "experiments/asi-smoke/run-20261025T034941Z/results.jsonl",
+      "bytes": 8462,
+      "sha256": "c5fdd4fe920f40171a5e88348f2764178eebd8e605dbc319f779ebd2fa76a87d"
+    },
+    {
+      "path": "experiments/asi-smoke/run-20261025T034941Z/summary.json",
+      "bytes": 549,
+      "sha256": "6176d5d6d6b3de70d82b0973eda8530de4f380b77793a8c035b08d6f205b5d74"
+    },
+    {
+      "path": "experiments/asi-smoke/run.py",
+      "bytes": 6006,
+      "sha256": "4fc09369dc37769f3aae98d9b271801b0fc2c672f59a8c160871ec81914d765e"
+    },
+    {
+      "path": "materials/OWASP_Agentic_Top10_정리.md",
+      "bytes": 20506,
+      "sha256": "132cdd4faa74fe97e08e74da7cf7f9ca875e4aa3b0b43d57d6517fad5a416b61"
+    },
+    {
+      "path": "materials/udemy/ASI01.txt",
+      "bytes": 20020,
+      "sha256": "76c3f5999d041bfd6128704814995b91bb7aae0935deef48ce6f2bf7b16d25d3"
+    },
+    {
+      "path": "materials/udemy/ASI02.txt",
+      "bytes": 18455,
+      "sha256": "3df4ad3b0a11e5d5727d2fff0d9f1057aa33f1f18e328577c45b043ccf8baee8"
+    },
+    {
+      "path": "materials/udemy/ASI03.txt",
+      "bytes": 10080,
+      "sha256": "74f3c632d478fe1511aaa2febf06d8bfc70d0cf87abb58e2ff8a3cd9e2cffb56"
+    },
+    {
+      "path": "materials/udemy/ASI04.txt",
+      "bytes": 18882,
+      "sha256": "f04572cb05079040579490d1b82e126f3d4244cdee4a805851f01790182cc785"
+    },
+    {
+      "path": "materials/udemy/ASI05.txt",
+      "bytes": 17257,
+      "sha256": "555cac24cbfa943c8ff3ebfd0f624db28a3d61b8491894fc90a62776ecf0af15"
+    },
+    {
+      "path": "materials/udemy/ASI06.txt",
+      "bytes": 16286,
+      "sha256": "864a9c591a55b75991747d4162f7651fd5ebabd39cb4a61b3c6dfaa5a904e0ff"
+    },
+    {
+      "path": "materials/udemy/ASI07.txt",
+      "bytes": 16081,
+      "sha256": "95ce450d97b25596310e57207d2b19a970d2469abc7e2896ab15f39e6fd6f024"
+    },
+    {
+      "path": "materials/udemy/ASI08.txt",
+      "bytes": 11404,
+      "sha256": "d1c83c6e7871cc6dfece6805389568d6d1a1dfa84100aa940f008dd256c008d4"
+    },
+    {
+      "path": "materials/udemy/ASI09.txt",
+      "bytes": 9785,
+      "sha256": "100ea61edb2bb9817efb574fda9cbc73a0d253f1617bddb7215ad7c42e8336de"
+    },
+    {
+      "path": "materials/udemy/ASI10.txt",
+      "bytes": 7955,
+      "sha256": "aabfa0955beed8040ae8c8fc2ce6d2b2ecee5fe43d92d5b007e6bf53cdeaa2c6"
+    },
+    {
+      "path": "materials/udemy.zip",
+      "bytes": 54288,
+      "sha256": "a0cde43afe331bafaa27a4ad4d8cf23e5ea16fc3a962c8a8ce2727e1107bbfeb"
+    },
+    {
+      "path": "planning/udemy-asi-model-comparison.md",
+      "bytes": 7199,
+      "sha256": "968a83d10d431626148a711342c2ab7249ee2dcf727a602cb7fdea57ef7add9c"
+    }
+  ],
+  "source_inventory": [
+    {
+      "path": "experiments/asi-course/compare_luna.py",
+      "source": "workspace/asi-course/compare_luna.py",
+      "bytes": 3447,
+      "sha256": "cb58c133832c5177537615f203b4b5b242183deab38e7112b9aa25c395648c5a"
+    },
+    {
+      "path": "experiments/asi-course/course_engine.py",
+      "source": "workspace/asi-course/course_engine.py",
+      "bytes": 5000,
+      "sha256": "2024e035c64f8a9287fa2faacf38a60b568dc0fd3a1dfc335daee13acca59836"
+    },
+    {
+      "path": "experiments/asi-course/run-20261027T042306Z/course_engine.py",
+      "source": "workspace/asi-course/run-20261027T042306Z/course_engine.py",
+      "bytes": 5000,
+      "sha256": "2024e035c64f8a9287fa2faacf38a60b568dc0fd3a1dfc335daee13acca59836"
+    },
+    {
+      "path": "experiments/asi-course/run-20261027T042306Z/requests.jsonl",
+      "source": "workspace/asi-course/run-20261027T042306Z/requests.jsonl",
+      "bytes": 95461,
+      "sha256": "fdaab025510232fa8044120284143d26a3d07fe06e8ca9903cfa3e3a5c873b95"
+    },
+    {
+      "path": "experiments/asi-course/run-20261027T042306Z/results.jsonl",
+      "source": "workspace/asi-course/run-20261027T042306Z/results.jsonl",
+      "bytes": 40359,
+      "sha256": "555ccfd65b0d899163b314e2c99606c7c19445eebc449acf92197dbd3b31438b"
+    },
+    {
+      "path": "experiments/asi-course/run-20261027T042306Z/run_course.py",
+      "source": "workspace/asi-course/run-20261027T042306Z/run_course.py",
+      "bytes": 10298,
+      "sha256": "54854b95c0e4d15bf76eea6dd031caa0e1e500796f58919518c920415e042f4f"
+    },
+    {
+      "path": "experiments/asi-course/run-20261027T042306Z/scenarios.py",
+      "source": "workspace/asi-course/run-20261027T042306Z/scenarios.py",
+      "bytes": 8014,
+      "sha256": "49c5cb68dfea41656d220a6db4109e891900912e9fb3ed1d1410c36109e33885"
+    },
+    {
+      "path": "experiments/asi-course/run-20261027T042306Z/scope.json",
+      "source": "workspace/asi-course/run-20261027T042306Z/scope.json",
+      "bytes": 14009,
+      "sha256": "1daaac74410bac40f5546c8e4b1f6beca9df49c42ff8812fa48a4095e64467dd"
+    },
+    {
+      "path": "experiments/asi-course/run-20261027T042306Z/summary.json",
+      "source": "workspace/asi-course/run-20261027T042306Z/summary.json",
+      "bytes": 11247,
+      "sha256": "94d841c316ad7904bf4b992af7473a28830742a211a32ccefeb0aee0451e2a14"
+    },
+    {
+      "path": "experiments/asi-course/run-20261027T042306Z/test_course.py",
+      "source": "workspace/asi-course/run-20261027T042306Z/test_course.py",
+      "bytes": 2915,
+      "sha256": "47335eccb4b88badcf4506596f75ab41ef2bbca8085625995c0d86d5bfad8152"
+    },
+    {
+      "path": "experiments/asi-course/run-20261027T042635Z/course_engine.py",
+      "source": "workspace/asi-course/run-20261027T042635Z/course_engine.py",
+      "bytes": 5000,
+      "sha256": "2024e035c64f8a9287fa2faacf38a60b568dc0fd3a1dfc335daee13acca59836"
+    },
+    {
+      "path": "experiments/asi-course/run-20261027T042635Z/report.md",
+      "source": "workspace/asi-course/run-20261027T042635Z/report.md",
+      "bytes": 11665,
+      "sha256": "ebf118137adaf2339aaa45a1f6c44d0353cc0346950d45e195376f6ee28617c2"
+    },
+    {
+      "path": "experiments/asi-course/run-20261027T042635Z/requests.jsonl",
+      "source": "workspace/asi-course/run-20261027T042635Z/requests.jsonl",
+      "bytes": 96928,
+      "sha256": "721a76df229f52958c613933d899d7c6c23e58183ac346a475c4db4a59876682"
+    },
+    {
+      "path": "experiments/asi-course/run-20261027T042635Z/results.jsonl",
+      "source": "workspace/asi-course/run-20261027T042635Z/results.jsonl",
+      "bytes": 41335,
+      "sha256": "027b51f9adc57f222a97a6d97193452b3aace3b17c2d74c1c55819734e7138bd"
+    },
+    {
+      "path": "experiments/asi-course/run-20261027T042635Z/run_course.py",
+      "source": "workspace/asi-course/run-20261027T042635Z/run_course.py",
+      "bytes": 10298,
+      "sha256": "54854b95c0e4d15bf76eea6dd031caa0e1e500796f58919518c920415e042f4f"
+    },
+    {
+      "path": "experiments/asi-course/run-20261027T042635Z/scenarios.py",
+      "source": "workspace/asi-course/run-20261027T042635Z/scenarios.py",
+      "bytes": 8650,
+      "sha256": "0db4225470b78b5ebaa6d7f5e211f2409d65f7a3be377e75d69e9100898c7d35"
+    },
+    {
+      "path": "experiments/asi-course/run-20261027T042635Z/scope.json",
+      "source": "workspace/asi-course/run-20261027T042635Z/scope.json",
+      "bytes": 14645,
+      "sha256": "7537d7de1522829ad75474cc5e501a49358cde4e1ea7d1d03c84bb83999710ac"
+    },
+    {
+      "path": "experiments/asi-course/run-20261027T042635Z/summary.json",
+      "source": "workspace/asi-course/run-20261027T042635Z/summary.json",
+      "bytes": 11697,
+      "sha256": "fc1ff01bf0dd369e3c12ab201044058094fbbf063dd5a3fbf6cd013d197d7f37"
+    },
+    {
+      "path": "experiments/asi-course/run-20261027T042635Z/test_course.py",
+      "source": "workspace/asi-course/run-20261027T042635Z/test_course.py",
+      "bytes": 2915,
+      "sha256": "47335eccb4b88badcf4506596f75ab41ef2bbca8085625995c0d86d5bfad8152"
+    },
+    {
+      "path": "experiments/asi-course/run-20261027T042635Z/verification.json",
+      "source": "workspace/asi-course/run-20261027T042635Z/verification.json",
+      "bytes": 804,
+      "sha256": "6654d072e7bf70fd5f30021b0fde997716fb154831408ec677a9943ba6c98156"
+    },
+    {
+      "path": "experiments/asi-course/run-20261027T043504Z/comparison.json",
+      "source": "workspace/asi-course/run-20261027T043504Z/comparison.json",
+      "bytes": 1649,
+      "sha256": "f00615cc630671feaeb92d7483bb953099fe8f670070b094e449416c7bfea61e"
+    },
+    {
+      "path": "experiments/asi-course/run-20261027T043504Z/course_engine.py",
+      "source": "workspace/asi-course/run-20261027T043504Z/course_engine.py",
+      "bytes": 5000,
+      "sha256": "2024e035c64f8a9287fa2faacf38a60b568dc0fd3a1dfc335daee13acca59836"
+    },
+    {
+      "path": "experiments/asi-course/run-20261027T043504Z/report.md",
+      "source": "workspace/asi-course/run-20261027T043504Z/report.md",
+      "bytes": 6126,
+      "sha256": "83a4443b8d723f3985f08ab770e07c1448e682bc7459f8017efa35129369ebb6"
+    },
+    {
+      "path": "experiments/asi-course/run-20261027T043504Z/requests.jsonl",
+      "source": "workspace/asi-course/run-20261027T043504Z/requests.jsonl",
+      "bytes": 95192,
+      "sha256": "940076047720b0029608f60def2b445494215fcf15cab31eb20ae3c8ed6ef73c"
+    },
+    {
+      "path": "experiments/asi-course/run-20261027T043504Z/results.jsonl",
+      "source": "workspace/asi-course/run-20261027T043504Z/results.jsonl",
+      "bytes": 37215,
+      "sha256": "d9735a93089bc86b6ca18736abb921781fbef06e31ae164ccc04549616c5a920"
+    },
+    {
+      "path": "experiments/asi-course/run-20261027T043504Z/run_course.py",
+      "source": "workspace/asi-course/run-20261027T043504Z/run_course.py",
+      "bytes": 10298,
+      "sha256": "54854b95c0e4d15bf76eea6dd031caa0e1e500796f58919518c920415e042f4f"
+    },
+    {
+      "path": "experiments/asi-course/run-20261027T043504Z/scenarios.py",
+      "source": "workspace/asi-course/run-20261027T043504Z/scenarios.py",
+      "bytes": 8650,
+      "sha256": "0db4225470b78b5ebaa6d7f5e211f2409d65f7a3be377e75d69e9100898c7d35"
+    },
+    {
+      "path": "experiments/asi-course/run-20261027T043504Z/scope.json",
+      "source": "workspace/asi-course/run-20261027T043504Z/scope.json",
+      "bytes": 14646,
+      "sha256": "25fffb4466549aa6f21873d6bd15d320267ffc4f4d5d77b7056004337f39692b"
+    },
+    {
+      "path": "experiments/asi-course/run-20261027T043504Z/summary.json",
+      "source": "workspace/asi-course/run-20261027T043504Z/summary.json",
+      "bytes": 11873,
+      "sha256": "b7916521cca9044e32b81c56829812e01fe448bba181ba6e9e90a9bf300be2f2"
+    },
+    {
+      "path": "experiments/asi-course/run-20261027T043504Z/test_course.py",
+      "source": "workspace/asi-course/run-20261027T043504Z/test_course.py",
+      "bytes": 2915,
+      "sha256": "47335eccb4b88badcf4506596f75ab41ef2bbca8085625995c0d86d5bfad8152"
+    },
+    {
+      "path": "experiments/asi-course/run_course.py",
+      "source": "workspace/asi-course/run_course.py",
+      "bytes": 10298,
+      "sha256": "54854b95c0e4d15bf76eea6dd031caa0e1e500796f58919518c920415e042f4f"
+    },
+    {
+      "path": "experiments/asi-course/scenarios.py",
+      "source": "workspace/asi-course/scenarios.py",
+      "bytes": 8650,
+      "sha256": "0db4225470b78b5ebaa6d7f5e211f2409d65f7a3be377e75d69e9100898c7d35"
+    },
+    {
+      "path": "experiments/asi-course/test_course.py",
+      "source": "workspace/asi-course/test_course.py",
+      "bytes": 2915,
+      "sha256": "47335eccb4b88badcf4506596f75ab41ef2bbca8085625995c0d86d5bfad8152"
+    },
+    {
+      "path": "experiments/asi-course/verify_results.py",
+      "source": "workspace/asi-course/verify_results.py",
+      "bytes": 3423,
+      "sha256": "95754c8b998bdc82326cf111fe27190119a3c073c3a972491461564f16eab3b2"
+    },
+    {
+      "path": "experiments/asi-lab/lab.py",
+      "source": "workspace/asi-lab/lab.py",
+      "bytes": 544,
+      "sha256": "7faea13e2bbb990e68e31b665fe3d6febfaa70fce8b92889448b68f833ed18dd"
+    },
+    {
+      "path": "experiments/asi-lab/run-20261025T040330Z/report.md",
+      "source": "workspace/asi-lab/run-20261025T040330Z/report.md",
+      "bytes": 4278,
+      "sha256": "2f385a4e3d0a5c202bedf36ee149aa5f35bfa6dedd7f5c493b825a9cbc197fc1"
+    },
+    {
+      "path": "experiments/asi-lab/run-20261025T040330Z/results.jsonl",
+      "source": "workspace/asi-lab/run-20261025T040330Z/results.jsonl",
+      "bytes": 68949,
+      "sha256": "8fd7af7ced93485eb277a63cc67c598d6ec9ba71fca53101fb6581f13beb493f"
+    },
+    {
+      "path": "experiments/asi-lab/run-20261025T040330Z/scope.json",
+      "source": "workspace/asi-lab/run-20261025T040330Z/scope.json",
+      "bytes": 1028,
+      "sha256": "5665afda6e6a2b3adc61a0e0d0625ceda13e7f73dde4bd4984179cdff98758b9"
+    },
+    {
+      "path": "experiments/asi-lab/run-20261025T040330Z/summary.json",
+      "source": "workspace/asi-lab/run-20261025T040330Z/summary.json",
+      "bytes": 4121,
+      "sha256": "19b324e1f72c314b233f3ce2b9220372976dde0bd2ad181e1dc70dbc5b31a489"
+    },
+    {
+      "path": "experiments/asi-lab/run_lab.py",
+      "source": "workspace/asi-lab/run_lab.py",
+      "bytes": 11751,
+      "sha256": "138108790dfc85bc60b85e6b884f72bd34809ae2538d20ccdadee99d8bb052a3"
+    },
+    {
+      "path": "experiments/asi-lab/test_lab.py",
+      "source": "workspace/asi-lab/test_lab.py",
+      "bytes": 414,
+      "sha256": "5feb0d64bb81f9617aad6b35e190fb8586995ee977dd715644fff37648171a5e"
+    },
+    {
+      "path": "experiments/asi-repo/repo_lab.py",
+      "source": "workspace/asi-repo/repo_lab.py",
+      "bytes": 10444,
+      "sha256": "635c186fd9b937a425b5f0fda3aadfc1f1a906eb91d0cd9e4224dbbcb3ff5606"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044455Z/concealment/DEVELOPMENT.md",
+      "source": "workspace/asi-repo/run-20261025T044455Z/concealment/DEVELOPMENT.md",
+      "bytes": 257,
+      "sha256": "a7e6a009ce7147edd936116ef18a68c649bc66ce7f40d14a3758971006e15821"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044455Z/concealment/audit_fixture.json",
+      "source": "workspace/asi-repo/run-20261025T044455Z/concealment/audit_fixture.json",
+      "bytes": 52,
+      "sha256": "828b5735594850ba347e6245435eac955d82b463159e40a772b39bd82257ebe2"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044455Z/concealment/evidence.json",
+      "source": "workspace/asi-repo/run-20261025T044455Z/concealment/evidence.json",
+      "bytes": 11302,
+      "sha256": "31d978e4f19de41216587ee5d2f836b90db59b387ce14a850de6b4f14d2af552"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044455Z/concealment/settings.json",
+      "source": "workspace/asi-repo/run-20261025T044455Z/concealment/settings.json",
+      "bytes": 22,
+      "sha256": "da6e36045a090dc69547e5861044af92d1f952996a69fbdb0c470eefc020aeca"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044455Z/control/DEVELOPMENT.md",
+      "source": "workspace/asi-repo/run-20261025T044455Z/control/DEVELOPMENT.md",
+      "bytes": 103,
+      "sha256": "99b536fbd34baa1c2481640c0304a55a984de845bb828713da4e9dbcf7ee211c"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044455Z/control/audit_fixture.json",
+      "source": "workspace/asi-repo/run-20261025T044455Z/control/audit_fixture.json",
+      "bytes": 52,
+      "sha256": "828b5735594850ba347e6245435eac955d82b463159e40a772b39bd82257ebe2"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044455Z/control/evidence.json",
+      "source": "workspace/asi-repo/run-20261025T044455Z/control/evidence.json",
+      "bytes": 10728,
+      "sha256": "c7cd47737696d4a70985168ba5c5789fd225c37ead4d0265a00f1a83cc556bea"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044455Z/control/settings.json",
+      "source": "workspace/asi-repo/run-20261025T044455Z/control/settings.json",
+      "bytes": 22,
+      "sha256": "da6e36045a090dc69547e5861044af92d1f952996a69fbdb0c470eefc020aeca"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044455Z/dependency_pretext/DEVELOPMENT.md",
+      "source": "workspace/asi-repo/run-20261025T044455Z/dependency_pretext/DEVELOPMENT.md",
+      "bytes": 269,
+      "sha256": "e5810890ff7b19d6224922da468db2946a46e8dc94e2b1fad3fe0b70585c1891"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044455Z/dependency_pretext/audit_fixture.json",
+      "source": "workspace/asi-repo/run-20261025T044455Z/dependency_pretext/audit_fixture.json",
+      "bytes": 52,
+      "sha256": "828b5735594850ba347e6245435eac955d82b463159e40a772b39bd82257ebe2"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044455Z/dependency_pretext/evidence.json",
+      "source": "workspace/asi-repo/run-20261025T044455Z/dependency_pretext/evidence.json",
+      "bytes": 11576,
+      "sha256": "7b5c55ff282ad66bb8c49ed1f60b0c0bc1accc0c30d00ce331ad266ead1e9170"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044455Z/dependency_pretext/settings.json",
+      "source": "workspace/asi-repo/run-20261025T044455Z/dependency_pretext/settings.json",
+      "bytes": 22,
+      "sha256": "da6e36045a090dc69547e5861044af92d1f952996a69fbdb0c470eefc020aeca"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044455Z/forged_approval/DEVELOPMENT.md",
+      "source": "workspace/asi-repo/run-20261025T044455Z/forged_approval/DEVELOPMENT.md",
+      "bytes": 277,
+      "sha256": "b8cf9447b72bd42b3c05b95d9cf7452c9656fe33cebda00a0a4c7b0484286cdf"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044455Z/forged_approval/audit_fixture.json",
+      "source": "workspace/asi-repo/run-20261025T044455Z/forged_approval/audit_fixture.json",
+      "bytes": 52,
+      "sha256": "828b5735594850ba347e6245435eac955d82b463159e40a772b39bd82257ebe2"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044455Z/forged_approval/evidence.json",
+      "source": "workspace/asi-repo/run-20261025T044455Z/forged_approval/evidence.json",
+      "bytes": 11328,
+      "sha256": "1741e1c96a09c27cc47e7059ef0b336bd156b5fd1327d9838e80f0b239d0d1f7"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044455Z/forged_approval/settings.json",
+      "source": "workspace/asi-repo/run-20261025T044455Z/forged_approval/settings.json",
+      "bytes": 22,
+      "sha256": "da6e36045a090dc69547e5861044af92d1f952996a69fbdb0c470eefc020aeca"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044455Z/report.md",
+      "source": "workspace/asi-repo/run-20261025T044455Z/report.md",
+      "bytes": 3278,
+      "sha256": "8bcebbeb86a3993427cdf173d8ba89e53f59796a05e86e26e85c1a27c263403d"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044455Z/summary.json",
+      "source": "workspace/asi-repo/run-20261025T044455Z/summary.json",
+      "bytes": 2368,
+      "sha256": "4d2cc075ad4de597c5cc0bc818af5c8db0c0f20d2aad900da9972b6cb59849b8"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044816Z/explicit_clean_1/DEVELOPMENT.md",
+      "source": "workspace/asi-repo/run-20261025T044816Z/explicit_clean_1/DEVELOPMENT.md",
+      "bytes": 103,
+      "sha256": "99b536fbd34baa1c2481640c0304a55a984de845bb828713da4e9dbcf7ee211c"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044816Z/explicit_clean_1/audit_fixture.json",
+      "source": "workspace/asi-repo/run-20261025T044816Z/explicit_clean_1/audit_fixture.json",
+      "bytes": 52,
+      "sha256": "828b5735594850ba347e6245435eac955d82b463159e40a772b39bd82257ebe2"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044816Z/explicit_clean_1/evidence.json",
+      "source": "workspace/asi-repo/run-20261025T044816Z/explicit_clean_1/evidence.json",
+      "bytes": 10794,
+      "sha256": "ee67ffb55b0f2b0ac0b6654172e8f52f64418b9a40127539b3c1d0a7c8ef394b"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044816Z/explicit_clean_1/settings.json",
+      "source": "workspace/asi-repo/run-20261025T044816Z/explicit_clean_1/settings.json",
+      "bytes": 22,
+      "sha256": "da6e36045a090dc69547e5861044af92d1f952996a69fbdb0c470eefc020aeca"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044816Z/explicit_clean_2/DEVELOPMENT.md",
+      "source": "workspace/asi-repo/run-20261025T044816Z/explicit_clean_2/DEVELOPMENT.md",
+      "bytes": 103,
+      "sha256": "99b536fbd34baa1c2481640c0304a55a984de845bb828713da4e9dbcf7ee211c"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044816Z/explicit_clean_2/audit_fixture.json",
+      "source": "workspace/asi-repo/run-20261025T044816Z/explicit_clean_2/audit_fixture.json",
+      "bytes": 52,
+      "sha256": "828b5735594850ba347e6245435eac955d82b463159e40a772b39bd82257ebe2"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044816Z/explicit_clean_2/evidence.json",
+      "source": "workspace/asi-repo/run-20261025T044816Z/explicit_clean_2/evidence.json",
+      "bytes": 10782,
+      "sha256": "d83d59dcb8b36a3c2f906d720a7ddc5e98d4732fc757fdf75051f20513ff2d39"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044816Z/explicit_clean_2/settings.json",
+      "source": "workspace/asi-repo/run-20261025T044816Z/explicit_clean_2/settings.json",
+      "bytes": 22,
+      "sha256": "da6e36045a090dc69547e5861044af92d1f952996a69fbdb0c470eefc020aeca"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044816Z/explicit_clean_3/DEVELOPMENT.md",
+      "source": "workspace/asi-repo/run-20261025T044816Z/explicit_clean_3/DEVELOPMENT.md",
+      "bytes": 103,
+      "sha256": "99b536fbd34baa1c2481640c0304a55a984de845bb828713da4e9dbcf7ee211c"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044816Z/explicit_clean_3/audit_fixture.json",
+      "source": "workspace/asi-repo/run-20261025T044816Z/explicit_clean_3/audit_fixture.json",
+      "bytes": 52,
+      "sha256": "828b5735594850ba347e6245435eac955d82b463159e40a772b39bd82257ebe2"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044816Z/explicit_clean_3/evidence.json",
+      "source": "workspace/asi-repo/run-20261025T044816Z/explicit_clean_3/evidence.json",
+      "bytes": 10731,
+      "sha256": "64fb205beead50c3b99d8e6ccf28fa1d3a62e663dd81fa3913dbe5fdaab4aef1"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044816Z/explicit_clean_3/settings.json",
+      "source": "workspace/asi-repo/run-20261025T044816Z/explicit_clean_3/settings.json",
+      "bytes": 22,
+      "sha256": "da6e36045a090dc69547e5861044af92d1f952996a69fbdb0c470eefc020aeca"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044816Z/explicit_poisoned_1/DEVELOPMENT.md",
+      "source": "workspace/asi-repo/run-20261025T044816Z/explicit_poisoned_1/DEVELOPMENT.md",
+      "bytes": 269,
+      "sha256": "e5810890ff7b19d6224922da468db2946a46e8dc94e2b1fad3fe0b70585c1891"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044816Z/explicit_poisoned_1/audit_fixture.json",
+      "source": "workspace/asi-repo/run-20261025T044816Z/explicit_poisoned_1/audit_fixture.json",
+      "bytes": 52,
+      "sha256": "828b5735594850ba347e6245435eac955d82b463159e40a772b39bd82257ebe2"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044816Z/explicit_poisoned_1/evidence.json",
+      "source": "workspace/asi-repo/run-20261025T044816Z/explicit_poisoned_1/evidence.json",
+      "bytes": 11498,
+      "sha256": "46a2aac630f94c0237b92299dcfe44c955e66bbdecdf8026e232bb6d587a2c50"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044816Z/explicit_poisoned_1/settings.json",
+      "source": "workspace/asi-repo/run-20261025T044816Z/explicit_poisoned_1/settings.json",
+      "bytes": 22,
+      "sha256": "da6e36045a090dc69547e5861044af92d1f952996a69fbdb0c470eefc020aeca"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044816Z/explicit_poisoned_2/DEVELOPMENT.md",
+      "source": "workspace/asi-repo/run-20261025T044816Z/explicit_poisoned_2/DEVELOPMENT.md",
+      "bytes": 269,
+      "sha256": "e5810890ff7b19d6224922da468db2946a46e8dc94e2b1fad3fe0b70585c1891"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044816Z/explicit_poisoned_2/audit_fixture.json",
+      "source": "workspace/asi-repo/run-20261025T044816Z/explicit_poisoned_2/audit_fixture.json",
+      "bytes": 52,
+      "sha256": "828b5735594850ba347e6245435eac955d82b463159e40a772b39bd82257ebe2"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044816Z/explicit_poisoned_2/evidence.json",
+      "source": "workspace/asi-repo/run-20261025T044816Z/explicit_poisoned_2/evidence.json",
+      "bytes": 11313,
+      "sha256": "172c30e2d37b36903ef29254a8246095df2fc3bfa47947916baba794876e04c3"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044816Z/explicit_poisoned_2/settings.json",
+      "source": "workspace/asi-repo/run-20261025T044816Z/explicit_poisoned_2/settings.json",
+      "bytes": 22,
+      "sha256": "da6e36045a090dc69547e5861044af92d1f952996a69fbdb0c470eefc020aeca"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044816Z/explicit_poisoned_3/DEVELOPMENT.md",
+      "source": "workspace/asi-repo/run-20261025T044816Z/explicit_poisoned_3/DEVELOPMENT.md",
+      "bytes": 269,
+      "sha256": "e5810890ff7b19d6224922da468db2946a46e8dc94e2b1fad3fe0b70585c1891"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044816Z/explicit_poisoned_3/audit_fixture.json",
+      "source": "workspace/asi-repo/run-20261025T044816Z/explicit_poisoned_3/audit_fixture.json",
+      "bytes": 52,
+      "sha256": "828b5735594850ba347e6245435eac955d82b463159e40a772b39bd82257ebe2"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044816Z/explicit_poisoned_3/evidence.json",
+      "source": "workspace/asi-repo/run-20261025T044816Z/explicit_poisoned_3/evidence.json",
+      "bytes": 11312,
+      "sha256": "bc09a9dd46273c99ffe1d93f7ae970e467f7c80db6da2910fd6593eb4b69c2ab"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044816Z/explicit_poisoned_3/settings.json",
+      "source": "workspace/asi-repo/run-20261025T044816Z/explicit_poisoned_3/settings.json",
+      "bytes": 22,
+      "sha256": "da6e36045a090dc69547e5861044af92d1f952996a69fbdb0c470eefc020aeca"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044816Z/general_clean_1/DEVELOPMENT.md",
+      "source": "workspace/asi-repo/run-20261025T044816Z/general_clean_1/DEVELOPMENT.md",
+      "bytes": 103,
+      "sha256": "99b536fbd34baa1c2481640c0304a55a984de845bb828713da4e9dbcf7ee211c"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044816Z/general_clean_1/audit_fixture.json",
+      "source": "workspace/asi-repo/run-20261025T044816Z/general_clean_1/audit_fixture.json",
+      "bytes": 52,
+      "sha256": "828b5735594850ba347e6245435eac955d82b463159e40a772b39bd82257ebe2"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044816Z/general_clean_1/evidence.json",
+      "source": "workspace/asi-repo/run-20261025T044816Z/general_clean_1/evidence.json",
+      "bytes": 10589,
+      "sha256": "2ddde8191e7307b423d29d466ec2f170cad9d5b173768f10fdd787c3e900c665"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044816Z/general_clean_1/settings.json",
+      "source": "workspace/asi-repo/run-20261025T044816Z/general_clean_1/settings.json",
+      "bytes": 22,
+      "sha256": "da6e36045a090dc69547e5861044af92d1f952996a69fbdb0c470eefc020aeca"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044816Z/general_clean_2/DEVELOPMENT.md",
+      "source": "workspace/asi-repo/run-20261025T044816Z/general_clean_2/DEVELOPMENT.md",
+      "bytes": 103,
+      "sha256": "99b536fbd34baa1c2481640c0304a55a984de845bb828713da4e9dbcf7ee211c"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044816Z/general_clean_2/audit_fixture.json",
+      "source": "workspace/asi-repo/run-20261025T044816Z/general_clean_2/audit_fixture.json",
+      "bytes": 52,
+      "sha256": "828b5735594850ba347e6245435eac955d82b463159e40a772b39bd82257ebe2"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044816Z/general_clean_2/evidence.json",
+      "source": "workspace/asi-repo/run-20261025T044816Z/general_clean_2/evidence.json",
+      "bytes": 10629,
+      "sha256": "d3bc74f295e9bd9fc1f6b4854f091761fe155d67b6790c5f6265b3e9bd895917"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044816Z/general_clean_2/settings.json",
+      "source": "workspace/asi-repo/run-20261025T044816Z/general_clean_2/settings.json",
+      "bytes": 22,
+      "sha256": "da6e36045a090dc69547e5861044af92d1f952996a69fbdb0c470eefc020aeca"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044816Z/general_clean_3/DEVELOPMENT.md",
+      "source": "workspace/asi-repo/run-20261025T044816Z/general_clean_3/DEVELOPMENT.md",
+      "bytes": 103,
+      "sha256": "99b536fbd34baa1c2481640c0304a55a984de845bb828713da4e9dbcf7ee211c"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044816Z/general_clean_3/audit_fixture.json",
+      "source": "workspace/asi-repo/run-20261025T044816Z/general_clean_3/audit_fixture.json",
+      "bytes": 52,
+      "sha256": "828b5735594850ba347e6245435eac955d82b463159e40a772b39bd82257ebe2"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044816Z/general_clean_3/evidence.json",
+      "source": "workspace/asi-repo/run-20261025T044816Z/general_clean_3/evidence.json",
+      "bytes": 10637,
+      "sha256": "f3e8e706e62df638565984746e92fdd1d73d08c27520a855fc4749d0be18d692"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044816Z/general_clean_3/settings.json",
+      "source": "workspace/asi-repo/run-20261025T044816Z/general_clean_3/settings.json",
+      "bytes": 22,
+      "sha256": "da6e36045a090dc69547e5861044af92d1f952996a69fbdb0c470eefc020aeca"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044816Z/general_poisoned_1/DEVELOPMENT.md",
+      "source": "workspace/asi-repo/run-20261025T044816Z/general_poisoned_1/DEVELOPMENT.md",
+      "bytes": 269,
+      "sha256": "e5810890ff7b19d6224922da468db2946a46e8dc94e2b1fad3fe0b70585c1891"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044816Z/general_poisoned_1/audit_fixture.json",
+      "source": "workspace/asi-repo/run-20261025T044816Z/general_poisoned_1/audit_fixture.json",
+      "bytes": 52,
+      "sha256": "828b5735594850ba347e6245435eac955d82b463159e40a772b39bd82257ebe2"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044816Z/general_poisoned_1/evidence.json",
+      "source": "workspace/asi-repo/run-20261025T044816Z/general_poisoned_1/evidence.json",
+      "bytes": 11285,
+      "sha256": "90a7f6cbe8f118b7418c2ab72ba5340a754452ec551020b2da3c7fe092275bb3"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044816Z/general_poisoned_1/settings.json",
+      "source": "workspace/asi-repo/run-20261025T044816Z/general_poisoned_1/settings.json",
+      "bytes": 22,
+      "sha256": "da6e36045a090dc69547e5861044af92d1f952996a69fbdb0c470eefc020aeca"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044816Z/general_poisoned_2/DEVELOPMENT.md",
+      "source": "workspace/asi-repo/run-20261025T044816Z/general_poisoned_2/DEVELOPMENT.md",
+      "bytes": 269,
+      "sha256": "e5810890ff7b19d6224922da468db2946a46e8dc94e2b1fad3fe0b70585c1891"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044816Z/general_poisoned_2/audit_fixture.json",
+      "source": "workspace/asi-repo/run-20261025T044816Z/general_poisoned_2/audit_fixture.json",
+      "bytes": 52,
+      "sha256": "828b5735594850ba347e6245435eac955d82b463159e40a772b39bd82257ebe2"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044816Z/general_poisoned_2/evidence.json",
+      "source": "workspace/asi-repo/run-20261025T044816Z/general_poisoned_2/evidence.json",
+      "bytes": 11367,
+      "sha256": "cebb232cd29d6800686972ba3ac247a1ec6a1ac20cf6e77ab357053de4d54bb4"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044816Z/general_poisoned_2/settings.json",
+      "source": "workspace/asi-repo/run-20261025T044816Z/general_poisoned_2/settings.json",
+      "bytes": 22,
+      "sha256": "da6e36045a090dc69547e5861044af92d1f952996a69fbdb0c470eefc020aeca"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044816Z/general_poisoned_3/DEVELOPMENT.md",
+      "source": "workspace/asi-repo/run-20261025T044816Z/general_poisoned_3/DEVELOPMENT.md",
+      "bytes": 269,
+      "sha256": "e5810890ff7b19d6224922da468db2946a46e8dc94e2b1fad3fe0b70585c1891"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044816Z/general_poisoned_3/audit_fixture.json",
+      "source": "workspace/asi-repo/run-20261025T044816Z/general_poisoned_3/audit_fixture.json",
+      "bytes": 52,
+      "sha256": "828b5735594850ba347e6245435eac955d82b463159e40a772b39bd82257ebe2"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044816Z/general_poisoned_3/evidence.json",
+      "source": "workspace/asi-repo/run-20261025T044816Z/general_poisoned_3/evidence.json",
+      "bytes": 11288,
+      "sha256": "0da53625a8efcca43dc197e5b4dc35aba3efd421b6f66c5a6efee051e64f7404"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044816Z/general_poisoned_3/settings.json",
+      "source": "workspace/asi-repo/run-20261025T044816Z/general_poisoned_3/settings.json",
+      "bytes": 22,
+      "sha256": "da6e36045a090dc69547e5861044af92d1f952996a69fbdb0c470eefc020aeca"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044816Z/report.md",
+      "source": "workspace/asi-repo/run-20261025T044816Z/report.md",
+      "bytes": 3559,
+      "sha256": "e072dc23d318cd08b88e0091b83d1b7b3c9086837a550730612fc6ab9d08f464"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044816Z/scope.json",
+      "source": "workspace/asi-repo/run-20261025T044816Z/scope.json",
+      "bytes": 3743,
+      "sha256": "0b18b33f62be8b365cb2d46b22763c992f8444766357ad6bb2d42cce3bbd83f0"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T044816Z/summary.json",
+      "source": "workspace/asi-repo/run-20261025T044816Z/summary.json",
+      "bytes": 6911,
+      "sha256": "2b13797ca078ac0f817c4303a10e0f73379519f095f528068f2066fce5060844"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T045347Z/normal_1/DEVELOPMENT.md",
+      "source": "workspace/asi-repo/run-20261025T045347Z/normal_1/DEVELOPMENT.md",
+      "bytes": 103,
+      "sha256": "99b536fbd34baa1c2481640c0304a55a984de845bb828713da4e9dbcf7ee211c"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T045347Z/normal_1/audit_fixture.json",
+      "source": "workspace/asi-repo/run-20261025T045347Z/normal_1/audit_fixture.json",
+      "bytes": 52,
+      "sha256": "828b5735594850ba347e6245435eac955d82b463159e40a772b39bd82257ebe2"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T045347Z/normal_1/evidence.json",
+      "source": "workspace/asi-repo/run-20261025T045347Z/normal_1/evidence.json",
+      "bytes": 10810,
+      "sha256": "6dab57f21320fe7da3b58b91c8ede93cfffbb0a3ebb38ae44a76e1fd214ab38a"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T045347Z/normal_1/settings.json",
+      "source": "workspace/asi-repo/run-20261025T045347Z/normal_1/settings.json",
+      "bytes": 22,
+      "sha256": "da6e36045a090dc69547e5861044af92d1f952996a69fbdb0c470eefc020aeca"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T045347Z/normal_2/DEVELOPMENT.md",
+      "source": "workspace/asi-repo/run-20261025T045347Z/normal_2/DEVELOPMENT.md",
+      "bytes": 103,
+      "sha256": "99b536fbd34baa1c2481640c0304a55a984de845bb828713da4e9dbcf7ee211c"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T045347Z/normal_2/audit_fixture.json",
+      "source": "workspace/asi-repo/run-20261025T045347Z/normal_2/audit_fixture.json",
+      "bytes": 52,
+      "sha256": "828b5735594850ba347e6245435eac955d82b463159e40a772b39bd82257ebe2"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T045347Z/normal_2/evidence.json",
+      "source": "workspace/asi-repo/run-20261025T045347Z/normal_2/evidence.json",
+      "bytes": 10695,
+      "sha256": "022ef94443f81574427d9455f766e552e71df16ab7d8b9687d7e0ddfde1263c8"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T045347Z/normal_2/settings.json",
+      "source": "workspace/asi-repo/run-20261025T045347Z/normal_2/settings.json",
+      "bytes": 22,
+      "sha256": "da6e36045a090dc69547e5861044af92d1f952996a69fbdb0c470eefc020aeca"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T045347Z/normal_3/DEVELOPMENT.md",
+      "source": "workspace/asi-repo/run-20261025T045347Z/normal_3/DEVELOPMENT.md",
+      "bytes": 103,
+      "sha256": "99b536fbd34baa1c2481640c0304a55a984de845bb828713da4e9dbcf7ee211c"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T045347Z/normal_3/audit_fixture.json",
+      "source": "workspace/asi-repo/run-20261025T045347Z/normal_3/audit_fixture.json",
+      "bytes": 52,
+      "sha256": "828b5735594850ba347e6245435eac955d82b463159e40a772b39bd82257ebe2"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T045347Z/normal_3/evidence.json",
+      "source": "workspace/asi-repo/run-20261025T045347Z/normal_3/evidence.json",
+      "bytes": 10567,
+      "sha256": "b2e4f71955150b6bdaf166e1cb1d36186ad3c86d5666dca09dfac2dc4ebe271d"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T045347Z/normal_3/settings.json",
+      "source": "workspace/asi-repo/run-20261025T045347Z/normal_3/settings.json",
+      "bytes": 22,
+      "sha256": "da6e36045a090dc69547e5861044af92d1f952996a69fbdb0c470eefc020aeca"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T045347Z/poisoned_1/DEVELOPMENT.md",
+      "source": "workspace/asi-repo/run-20261025T045347Z/poisoned_1/DEVELOPMENT.md",
+      "bytes": 103,
+      "sha256": "99b536fbd34baa1c2481640c0304a55a984de845bb828713da4e9dbcf7ee211c"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T045347Z/poisoned_1/audit_fixture.json",
+      "source": "workspace/asi-repo/run-20261025T045347Z/poisoned_1/audit_fixture.json",
+      "bytes": 52,
+      "sha256": "828b5735594850ba347e6245435eac955d82b463159e40a772b39bd82257ebe2"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T045347Z/poisoned_1/evidence.json",
+      "source": "workspace/asi-repo/run-20261025T045347Z/poisoned_1/evidence.json",
+      "bytes": 13108,
+      "sha256": "fd710fe1454502460dfa7561056e35b6b96f06215643bde15caf26849e186fd4"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T045347Z/poisoned_1/settings.json",
+      "source": "workspace/asi-repo/run-20261025T045347Z/poisoned_1/settings.json",
+      "bytes": 22,
+      "sha256": "da6e36045a090dc69547e5861044af92d1f952996a69fbdb0c470eefc020aeca"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T045347Z/poisoned_2/DEVELOPMENT.md",
+      "source": "workspace/asi-repo/run-20261025T045347Z/poisoned_2/DEVELOPMENT.md",
+      "bytes": 103,
+      "sha256": "99b536fbd34baa1c2481640c0304a55a984de845bb828713da4e9dbcf7ee211c"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T045347Z/poisoned_2/audit_fixture.json",
+      "source": "workspace/asi-repo/run-20261025T045347Z/poisoned_2/audit_fixture.json",
+      "bytes": 52,
+      "sha256": "828b5735594850ba347e6245435eac955d82b463159e40a772b39bd82257ebe2"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T045347Z/poisoned_2/evidence.json",
+      "source": "workspace/asi-repo/run-20261025T045347Z/poisoned_2/evidence.json",
+      "bytes": 12928,
+      "sha256": "9549f037430496a23aa8af2c51be887cc5481801169224bc2ec5e42981f8f5a3"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T045347Z/poisoned_2/settings.json",
+      "source": "workspace/asi-repo/run-20261025T045347Z/poisoned_2/settings.json",
+      "bytes": 22,
+      "sha256": "da6e36045a090dc69547e5861044af92d1f952996a69fbdb0c470eefc020aeca"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T045347Z/poisoned_3/DEVELOPMENT.md",
+      "source": "workspace/asi-repo/run-20261025T045347Z/poisoned_3/DEVELOPMENT.md",
+      "bytes": 103,
+      "sha256": "99b536fbd34baa1c2481640c0304a55a984de845bb828713da4e9dbcf7ee211c"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T045347Z/poisoned_3/audit_fixture.json",
+      "source": "workspace/asi-repo/run-20261025T045347Z/poisoned_3/audit_fixture.json",
+      "bytes": 52,
+      "sha256": "828b5735594850ba347e6245435eac955d82b463159e40a772b39bd82257ebe2"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T045347Z/poisoned_3/evidence.json",
+      "source": "workspace/asi-repo/run-20261025T045347Z/poisoned_3/evidence.json",
+      "bytes": 12942,
+      "sha256": "94caf9bbed2209b91fde2faef11d73e782dfd41db2b2160ad48549b684f804fd"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T045347Z/poisoned_3/settings.json",
+      "source": "workspace/asi-repo/run-20261025T045347Z/poisoned_3/settings.json",
+      "bytes": 22,
+      "sha256": "da6e36045a090dc69547e5861044af92d1f952996a69fbdb0c470eefc020aeca"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T045347Z/report.md",
+      "source": "workspace/asi-repo/run-20261025T045347Z/report.md",
+      "bytes": 3150,
+      "sha256": "808a2385b6b7369a5cc86f575d2b2b9dbd0a08f2a63fdb8e924736f282b6aebf"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T045347Z/scope.json",
+      "source": "workspace/asi-repo/run-20261025T045347Z/scope.json",
+      "bytes": 2059,
+      "sha256": "5b3a455d9047cce6be027a5257b69f6ad94cc9d2df624a05ebf011c4f91e75d2"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T045347Z/summary.json",
+      "source": "workspace/asi-repo/run-20261025T045347Z/summary.json",
+      "bytes": 5308,
+      "sha256": "848e301179ff1f75a95e02364c216291c87c6f31f7775844486b1207166e221f"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T045347Z/transient_1/DEVELOPMENT.md",
+      "source": "workspace/asi-repo/run-20261025T045347Z/transient_1/DEVELOPMENT.md",
+      "bytes": 103,
+      "sha256": "99b536fbd34baa1c2481640c0304a55a984de845bb828713da4e9dbcf7ee211c"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T045347Z/transient_1/audit_fixture.json",
+      "source": "workspace/asi-repo/run-20261025T045347Z/transient_1/audit_fixture.json",
+      "bytes": 52,
+      "sha256": "828b5735594850ba347e6245435eac955d82b463159e40a772b39bd82257ebe2"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T045347Z/transient_1/evidence.json",
+      "source": "workspace/asi-repo/run-20261025T045347Z/transient_1/evidence.json",
+      "bytes": 12755,
+      "sha256": "a20b7685b389ad437a514638acdc6bbddece7f67edd0ec877022ca77bfd7ac84"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T045347Z/transient_1/settings.json",
+      "source": "workspace/asi-repo/run-20261025T045347Z/transient_1/settings.json",
+      "bytes": 22,
+      "sha256": "da6e36045a090dc69547e5861044af92d1f952996a69fbdb0c470eefc020aeca"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T045347Z/transient_2/DEVELOPMENT.md",
+      "source": "workspace/asi-repo/run-20261025T045347Z/transient_2/DEVELOPMENT.md",
+      "bytes": 103,
+      "sha256": "99b536fbd34baa1c2481640c0304a55a984de845bb828713da4e9dbcf7ee211c"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T045347Z/transient_2/audit_fixture.json",
+      "source": "workspace/asi-repo/run-20261025T045347Z/transient_2/audit_fixture.json",
+      "bytes": 52,
+      "sha256": "828b5735594850ba347e6245435eac955d82b463159e40a772b39bd82257ebe2"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T045347Z/transient_2/evidence.json",
+      "source": "workspace/asi-repo/run-20261025T045347Z/transient_2/evidence.json",
+      "bytes": 12760,
+      "sha256": "978ca784df7db7c4a955f7124c26bd73fca421b180faa56b5f422696d0a27668"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T045347Z/transient_2/settings.json",
+      "source": "workspace/asi-repo/run-20261025T045347Z/transient_2/settings.json",
+      "bytes": 22,
+      "sha256": "da6e36045a090dc69547e5861044af92d1f952996a69fbdb0c470eefc020aeca"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T045347Z/transient_3/DEVELOPMENT.md",
+      "source": "workspace/asi-repo/run-20261025T045347Z/transient_3/DEVELOPMENT.md",
+      "bytes": 103,
+      "sha256": "99b536fbd34baa1c2481640c0304a55a984de845bb828713da4e9dbcf7ee211c"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T045347Z/transient_3/audit_fixture.json",
+      "source": "workspace/asi-repo/run-20261025T045347Z/transient_3/audit_fixture.json",
+      "bytes": 52,
+      "sha256": "828b5735594850ba347e6245435eac955d82b463159e40a772b39bd82257ebe2"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T045347Z/transient_3/evidence.json",
+      "source": "workspace/asi-repo/run-20261025T045347Z/transient_3/evidence.json",
+      "bytes": 12732,
+      "sha256": "649d63754f40aa520497f437c6bd43a921573a0e4c8a4a9403449f0f86875d54"
+    },
+    {
+      "path": "experiments/asi-repo/run-20261025T045347Z/transient_3/settings.json",
+      "source": "workspace/asi-repo/run-20261025T045347Z/transient_3/settings.json",
+      "bytes": 22,
+      "sha256": "da6e36045a090dc69547e5861044af92d1f952996a69fbdb0c470eefc020aeca"
+    },
+    {
+      "path": "experiments/asi-repo/test_boundary.py",
+      "source": "workspace/asi-repo/test_boundary.py",
+      "bytes": 656,
+      "sha256": "1e508d9a48436421d59f5ef9563a5f9baad85e87e87ba010d55ed9b334e01558"
+    },
+    {
+      "path": "experiments/asi-repo/test_fault.py",
+      "source": "workspace/asi-repo/test_fault.py",
+      "bytes": 766,
+      "sha256": "2120e82b901708a5026e11e8d53bd095ee91ca9c3498b58312f174f7be54d4ce"
+    },
+    {
+      "path": "experiments/asi-repo/test_matrix.py",
+      "source": "workspace/asi-repo/test_matrix.py",
+      "bytes": 886,
+      "sha256": "37aa787c73700f8fa49a9b94a9b42025224189fa8ee3424a0cb4abd1bdc935ef"
+    },
+    {
+      "path": "experiments/asi-smoke/run-20261025T034941Z/results.jsonl",
+      "source": "workspace/asi-smoke/run-20261025T034941Z/results.jsonl",
+      "bytes": 8462,
+      "sha256": "c5fdd4fe920f40171a5e88348f2764178eebd8e605dbc319f779ebd2fa76a87d"
+    },
+    {
+      "path": "experiments/asi-smoke/run-20261025T034941Z/summary.json",
+      "source": "workspace/asi-smoke/run-20261025T034941Z/summary.json",
+      "bytes": 549,
+      "sha256": "6176d5d6d6b3de70d82b0973eda8530de4f380b77793a8c035b08d6f205b5d74"
+    },
+    {
+      "path": "experiments/asi-smoke/run.py",
+      "source": "workspace/asi-smoke/run.py",
+      "bytes": 6006,
+      "sha256": "4fc09369dc37769f3aae98d9b271801b0fc2c672f59a8c160871ec81914d765e"
+    },
+    {
+      "path": "planning/udemy-asi-model-comparison.md",
+      "source": "plans/udemy-asi-model-comparison.md",
+      "bytes": 7199,
+      "sha256": "968a83d10d431626148a711342c2ab7249ee2dcf727a602cb7fdea57ef7add9c"
+    },
+    {
+      "path": "materials/OWASP_Agentic_Top10_정리.md",
+      "source": "OWASP_Agentic_Top10_정리.md",
+      "bytes": 20506,
+      "sha256": "132cdd4faa74fe97e08e74da7cf7f9ca875e4aa3b0b43d57d6517fad5a416b61"
+    },
+    {
+      "path": "materials/udemy.zip",
+      "source": "udemy.zip",
+      "bytes": 54288,
+      "sha256": "a0cde43afe331bafaa27a4ad4d8cf23e5ea16fc3a962c8a8ce2727e1107bbfeb"
+    }
+  ]
+}

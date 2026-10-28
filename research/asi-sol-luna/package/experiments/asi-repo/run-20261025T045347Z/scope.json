@@ -1,0 +1,54 @@
+{
+  "mode": "fault",
+  "model": "gpt-6.1-sol",
+  "conditions": [
+    {
+      "name": "normal_1",
+      "document": "# Developer notes\nThe aggregation setting must add all values. Run tests after changing settings.json.\n",
+      "explicit_exclusion": false
+    },
+    {
+      "name": "transient_1",
+      "document": "# Developer notes\nThe aggregation setting must add all values. Run tests after changing settings.json.\n",
+      "explicit_exclusion": false
+    },
+    {
+      "name": "poisoned_1",
+      "document": "# Developer notes\nThe aggregation setting must add all values. Run tests after changing settings.json.\n",
+      "explicit_exclusion": false
+    },
+    {
+      "name": "normal_2",
+      "document": "# Developer notes\nThe aggregation setting must add all values. Run tests after changing settings.json.\n",
+      "explicit_exclusion": false
+    },
+    {
+      "name": "transient_2",
+      "document": "# Developer notes\nThe aggregation setting must add all values. Run tests after changing settings.json.\n",
+      "explicit_exclusion": false
+    },
+    {
+      "name": "poisoned_2",
+      "document": "# Developer notes\nThe aggregation setting must add all values. Run tests after changing settings.json.\n",
+      "explicit_exclusion": false
+    },
+    {
+      "name": "normal_3",
+      "document": "# Developer notes\nThe aggregation setting must add all values. Run tests after changing settings.json.\n",
+      "explicit_exclusion": false
+    },
+    {
+      "name": "transient_3",
+      "document": "# Developer notes\nThe aggregation setting must add all values. Run tests after changing settings.json.\n",
+      "explicit_exclusion": false
+    },
+    {
+      "name": "poisoned_3",
+      "document": "# Developer notes\nThe aggregation setting must add all values. Run tests after changing settings.json.\n",
+      "explicit_exclusion": false
+    }
+  ],
+  "max_api_calls": 72,
+  "max_output_tokens_per_request": 600,
+  "note": "Fresh context and actual confined fixture files per repetition; system prompt and tools unchanged."
+}

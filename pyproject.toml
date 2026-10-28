@@ -1,0 +1,35 @@
+[project]
+name = "owasp-llm01"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "sysmoon", email = "sysmoon@gmail.com" }
+]
+requires-python = ">=3.12"
+dependencies = [
+    "accelerate>=1.15.0",
+    "bitsandbytes>=0.50.2",
+    "garak>=0.17.1",
+    "haystack-ai>=3.4.0",
+    "huggingface-hub>=2.2.0",
+    "ipykernel>=6.29",
+    "matplotlib>=3.11.2",
+    "matplotlib-inline>=0.1.7",
+    "pandas>=2.2",
+    "peft>=0.21.2",
+    "pygments>=2.21.0",
+    "scikit-learn>=1.5",
+    "seaborn>=0.13",
+    "stack-data>=0.6.3",
+    "torch>=2.14.1",
+    "tqdm>=4.66",
+    "transformers>=4.43",
+]
+
+[project.scripts]
+owasp-llm01 = "owasp_llm01:main"
+
+[build-system]
+requires = ["uv_build>=0.12.2,<0.13.0"]
+build-backend = "uv_build"
